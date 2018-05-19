@@ -1,0 +1,151 @@
+text_string,occurs_100k,occurs
+India,39.61,3938
+England,34.2,4061
+London,31.85,3848
+South Africa,20.96,2712
+Africa,19.85,2570
+Europe,18.94,2109
+France,10.09,1579
+Japan,9.84,864
+America,8.87,1025
+Paris,8.12,1187
+Calcutta,7.31,684
+Bombay,6.44,707
+Egypt,6.42,1011
+Cape,5.78,906
+Russia,5.74,1057
+Germany,4.89,795
+China,4.77,736
+Bengal,4.27,365
+Italy,3.83,471
+Bannu,3.76,522
+United States,3.55,482
+West Indies,3.34,426
+Britain,3.23,459
+West Africa,3.02,472
+Rome,2.96,372
+Asia,2.68,286
+Spain,2.67,353
+Great Britain,2.55,387
+New York,2.5,343
+San Domingo,2.46,456
+Johannesburg,2.43,222
+Kenya,2.26,389
+Madras,2.13,175
+Australia,2.07,289
+Persia,2.06,280
+Ethiopia,2.06,242
+Cape Colony,1.98,230
+Canada,1.95,256
+Uganda,1.83,307
+Sierra Leone,1.79,311
+East Africa,1.77,292
+Pretoria,1.65,246
+Trinidad,1.64,172
+Poona,1.62,135
+Ganges,1.6,145
+Oxford,1.59,149
+Ireland,1.59,197
+Kumasi,1.51,355
+Greece,1.51,208
+Cape Town,1.51,219
+Scotland,1.51,180
+Cairo,1.48,188
+Nigeria,1.39,259
+Mediterranean,1.36,116
+Delhi,1.35,161
+Jamaica,1.34,183
+Provence,1.33,40
+Congo,1.32,227
+Berlin,1.28,225
+Rhodesia,1.27,155
+Liberia,1.27,257
+Kimberley,1.26,146
+Benares,1.25,143
+Holland,1.21,185
+Zululand,1.16,218
+Orthodocia,1.09,111
+Barbados,1.05,106
+Gold Coast,1.03,150
+Wales,1.03,148
+Mafeking,1.0,115
+Cambridge,0.99,106
+Jannina,0.97,123
+Vienna,0.96,134
+Constantinople,0.94,137
+Boston,0.92,71
+Atlantic,0.91,128
+Soviet Union,0.91,179
+Tokyo,0.88,83
+Chicago,0.87,118
+Gambia,0.87,142
+Capetown,0.87,147
+Nairobi,0.87,147
+Belgium,0.86,143
+Venice,0.86,111
+Zambesi,0.85,77
+Turkey,0.84,128
+New Zealand,0.83,113
+Moscow,0.81,149
+Accra,0.81,125
+Austria,0.8,127
+Himalayas,0.79,56
+Kaffir,0.78,108
+Hinduism,0.78,75
+Durban,0.78,95
+Edinburgh,0.77,89
+Washington,0.76,113
+Jerusalem,0.75,90
+Punjab,0.75,92
+States,0.75,93
+Lagos,0.74,115
+Urdu,0.74,65
+Cape Province,0.73,119
+Switzerland,0.72,84
+Alexandria,0.72,98
+Kashmir,0.71,55
+California,0.71,69
+Geneva,0.7,72
+Lahore,0.69,80
+Aden,0.69,88
+Brussels,0.67,132
+San Francisco,0.67,63
+Transkei,0.65,121
+Roseau,0.62,64
+Israel,0.62,85
+South America,0.62,79
+Afghanistan,0.61,74
+Norway,0.6,92
+Amsterdam,0.6,147
+Naples,0.6,82
+Sweden,0.6,96
+Murud,0.59,49
+Richmond,0.59,63
+Marseilles,0.59,68
+Florence,0.58,73
+Madagascar,0.57,35
+Central Africa,0.57,97
+Assam,0.57,65
+Manchester,0.56,78
+Griqualand West,0.56,103
+Tanganyika,0.55,90
+New Africa,0.55,83
+South-West Africa,0.53,103
+Barolong,0.51,66
+Portugal,0.51,86
+United States Of America,0.49,56
+Pekin,0.49,79
+St. Petersburg,0.49,74
+Ghana,0.49,42
+Hindustan,0.49,44
+Mashonaland,0.48,38
+Zanzibar,0.48,80
+Glasgow,0.47,53
+Red Sea,0.47,49
+Northern Rhodesia,0.46,80
+Poland,0.46,78
+Nyasaland,0.46,94
+Swandale,0.46,55
+Palestine,0.45,53
+Norfolk,0.45,64
+Corfu,0.45,57

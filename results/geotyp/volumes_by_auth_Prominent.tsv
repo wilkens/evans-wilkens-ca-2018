@@ -1,0 +1,103 @@
+	author	volumes	weight	pub_date_avg	books	wordcount	ethnicity	corpus
+91	Wells, H. G.	55.0	1.0	1916.290909090909	55	5514792	White	Prominent
+8	Bennett, Arnold	40.0	1.0	1912.825	40	4292264	White	Prominent
+25	Ford, Ford Madox	29.0	1.0	1917.0	29	3355140	White	Prominent
+27	Galsworthy, John	28.0	1.0	1916.5	28	3031741	White	Prominent
+20	Conrad, Joseph	24.0	1.0	1910.3333333333333	24	2659519	White	Prominent
+58	Maugham, William Somerset	22.0	1.0	1919.4545454545455	22	2277960	White	Prominent
+49	Lawrence, D. H.	19.0	1.0	1921.7368421052631	19	2621119	White	Prominent
+70	Powys, Theodore Francis	17.0	1.0	1928.5294117647059	17	1037683	White	Prominent
+15	Chesterton, G. K.	17.0	1.0	1919.5294117647059	17	1348440	White	Prominent
+54	Macaulay, Rose	16.0	1.0	1923.1875	16	1579123	White	Prominent
+44	James, Henry	15.0	1.0	1897.8	15	2284521	White	Prominent
+41	Huxley, Aldous	13.0	1.0	1926.6923076923076	13	1329804	White	Prominent
+36	Hardy, Thomas	11.0	1.0	1888.3636363636363	11	1676538	White	Prominent
+73	Richardson, Dorothy	10.0	1.0	1921.3	10	702486	White	Prominent
+24	Firbank, [Arthur Annesley] Ronald	10.0	1.0	1920.0	10	294773	White	Prominent
+97	Woolf, Virginia	10.0	1.0	1924.4	10	1205859	White	Prominent
+48	Kipling, Rudyard	10.0	1.0	1897.6	10	1020993	White	Prominent
+83	Stevenson, Robert Louis	10.0	1.0	1887.7	10	909088	White	Prominent
+69	Powys, John Cowper	9.0	1.0	1929.3333333333333	9	2518278	White	Prominent
+11	Bowen, Elizabeth	9.0	1.0	1930.7777777777778	9	804859	White	Prominent
+0	Aldington, Richard	9.0	1.0	1933.6666666666667	9	1128464	White	Prominent
+33	Greene, Graham	8.0	1.0	1935.375	8	758881	White	Prominent
+18	Compton-Burnett, Ivy	8.0	1.0	1930.0	8	777546	White	Prominent
+26	Forster, E. M.	8.0	1.0	1913.375	8	754279	White	Prominent
+19	Conan Doyle, Arthur	7.0	1.0	1896.857142857143	7	967086	White	Prominent
+52	Lewis, Wyndham	6.0	1.0	1928.6666666666667	6	906827	White	Prominent
+89	Waugh, Evelyn	6.0	1.0	1933.0	6	465478	White	Prominent
+63	Myers, L. H.	6.0	1.0	1930.5	6	683667	White	Prominent
+62	Munro, Hector Hugh	6.0	1.0	1910.6666666666667	6	321293	White	Prominent
+56	Mansfield, Katherine	6.0	1.0	1921.6666666666667	6	378856	White	Prominent
+92	West, Rebecca	5.0	1.0	1928.0	5	609336	White	Prominent
+1	Allen, Grant	5.0	1.0	1897.2	5	414878	White	Prominent
+75	Rolfe, Frederick	5.0	1.0	1908.4	5	556712	White	Prominent
+7	Beerbohm, Max	5.0	1.0	1910.2	5	233577	White	Prominent
+65	Orwell, George	4.0	1.0	1936.0	4	437617	White	Prominent
+23	Douglas, Norman [George]	4.0	1.0	1916.25	4	349347	White	Prominent
+47	Joyce, James	4.0	1.0	1922.75	4	765878	White	Prominent
+50	Lehmann, Rosamond	4.0	1.0	1931.25	4	452758	White	Prominent
+29	Gissing, George	3.0	1.0	1889.0	3	595031	White	Prominent
+42	Isherwood, Christopher	3.0	1.0	1935.3333333333333	3	235132	White	Prominent
+96	Williams, Charles	3.0	1.0	1931.3333333333333	3	269757	White	Prominent
+12	Buchan, John	3.0	1.0	1913.6666666666667	3	253201	White	Prominent
+95	Wilde, Oscar	3.0	1.0	1890.0	3	233308	White	Prominent
+72	Rhys, Jean	3.0	1.0	1934.6666666666667	3	173364	White	Prominent
+98	Yeats, William Butler	2.0	1.0	1895.0	2	54058	White	Prominent
+80	Sinclair, May	2.0	1.0	1920.5	2	170662	White	Prominent
+81	Smith, Stevie	2.0	1.0	1937.0	2	146889	White	Prominent
+61	Moore, George	2.0	1.0	1905.0	2	367171	White	Prominent
+85	Trollope, Anthony	2.0	1.0	1881.5	2	519488	White	Prominent
+66	Pater, Walter	2.0	1.0	1886.0	2	184554	White	Prominent
+77	Sayers, Dorothy	2.0	1.0	1933.5	2	274368	White	Prominent
+71	Priestley, J. B.	2.0	1.0	1929.5	2	542737	White	Prominent
+74	Rider Haggard, H.	2.0	1.0	1886.0	2	278758	White	Prominent
+76	Sassoon, Siegfried	2.0	1.0	1933.0	2	155483	White	Prominent
+90	Webb, Mary	2.0	1.0	1920.5	2	228558	White	Prominent
+51	Lewis, C. S.	2.0	1.0	1935.5	2	147402	White	Prominent
+31	Graves, Robert	2.0	1.0	1934.0	2	409424	White	Prominent
+5	Barrie, J. M.	2.0	1.0	1897.0	2	100737	White	Prominent
+32	Green, Henry	2.0	1.0	1932.5	2	156592	White	Prominent
+6	Beckett, Samuel	2.0	1.0	1935.5	2	133049	White	Prominent
+9	Benson, E. F.	2.0	1.0	1923.5	2	208292	White	Prominent
+17	Christie, Agatha	2.0	1.0	1930.0	2	166406	White	Prominent
+13	Burnett, Frances Hodgston	2.0	1.0	1898.5	2	171937	White	Prominent
+37	Hartley, Leslie Poles	2.0	1.0	1925.0	2	78076	White	Prominent
+55	Mackenzie, Compton	1.0	1.0	1913.0	1	231761	White	Prominent
+88	Waugh, Alec	1.0	1.0	1917.0	1	132980	White	Prominent
+16	Childers, Erskine	1.0	1.0	1903.0	1	133407	White	Prominent
+84	Thomas, Edward	1.0	1.0	1913.0	1	81966	White	Prominent
+14	Carroll, Lewis	1.0	1.0	1889.0	1	85961	White	Prominent
+86	Walpole, Hugh	1.0	1.0	1911.0	1	77631	White	Prominent
+87	Warner, Sylvia	1.0	1.0	1926.0	1	60063	White	Prominent
+10	Bentley, E. C.	1.0	1.0	1913.0	1	86640	White	Prominent
+93	Weyman, Stanley J.	1.0	1.0	1893.0	1	173620	White	Prominent
+94	White, T. H.	1.0	1.0	1939.0	1	109578	White	Prominent
+4	Bagnold, Enid	1.0	1.0	1935.0	1	89887	White	Prominent
+3	Ashford, Daisy	1.0	1.0	1919.0	1	16057	White	Prominent
+2	Anstey, F.	1.0	1.0	1882.0	1	118228	White	Prominent
+99	de la Mare, Walter	1.0	1.0	1921.0	1	181100	White	Prominent
+100	du Maurier, Daphne	1.0	1.0	1938.0	1	192825	White	Prominent
+82	Somerville, Edith	1.0	1.0	1899.0	1	165735	White	Prominent
+79	Shorthouse, Joseph Henry	1.0	1.0	1881.0	1	213864	White	Prominent
+21	Delafield, E. M.	1.0	1.0	1930.0	1	57492	White	Prominent
+39	Hornung, E. W.	1.0	1.0	1899.0	1	133122	White	Prominent
+53	MacDonald, George	1.0	1.0	1883.0	1	67311	White	Prominent
+59	Meredith, George	1.0	1.0	1885.0	1	186177	White	Prominent
+60	Milne, A. A.	1.0	1.0	1928.0	1	35514	White	Prominent
+46	Jerome, Jerome K.	1.0	1.0	1889.0	1	80146	White	Prominent
+45	Jefferies, Richard	1.0	1.0	1882.0	1	137627	White	Prominent
+43	Jacobs, W. W.	1.0	1.0	1901.0	1	102912	White	Prominent
+64	Nesbit, Edith	1.0	1.0	1906.0	1	74704	White	Prominent
+40	Household, Geoffrey	1.0	1.0	1939.0	1	69204	White	Prominent
+67	Potter, Beatrix	1.0	1.0	1902.0	1	3215	White	Prominent
+57	Mason, A. E. W.	1.0	1.0	1902.0	1	141575	White	Prominent
+68	Powell, Anthony	1.0	1.0	1932.0	1	62270	White	Prominent
+38	Hope, Anthony	1.0	1.0	1894.0	1	66019	White	Prominent
+35	Hall, Radclyffe	1.0	1.0	1928.0	1	195659	White	Prominent
+34	Grossmith, George	1.0	1.0	1894.0	1	55732	White	Prominent
+30	Grahame, Kenneth	1.0	1.0	1908.0	1	70343	White	Prominent
+28	Garnett, David	1.0	1.0	1922.0	1	27813	White	Prominent
+22	Disraeli, Benjamin	1.0	1.0	1880.0	1	202639	White	Prominent
+78	Schreiner, Olive	1.0	1.0	1883.0	1	129109	White	Prominent
+101	du Maurier, George	1.0	1.0	1894.0	1	60161	White	Prominent

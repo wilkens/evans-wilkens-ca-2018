@@ -1,0 +1,151 @@
+text_string,occurs_100k,occurs
+London,19.45,63989
+Richmond,0.33,1160
+Thames,0.26,810
+Hampstead,0.23,819
+Hyde Park,0.2,649
+Kensington,0.2,707
+Scotland Yard,0.19,691
+Oxford Street,0.19,588
+Kew,0.18,421
+Chelsea,0.17,590
+Soho,0.17,594
+Covent Garden,0.14,501
+Westminster,0.14,489
+London Bridge,0.13,425
+West End,0.13,420
+Trafalgar Square,0.13,382
+Croydon,0.13,264
+Pall Mall,0.12,419
+Paddington,0.11,331
+Park Lane,0.1,347
+Bloomsbury,0.1,326
+Holborn,0.09,309
+Putney,0.09,335
+Highgate,0.09,294
+Kensington Gardens,0.09,338
+Leicester Square,0.09,250
+Buckingham Palace,0.09,226
+Knightsbridge,0.09,354
+Greenwich,0.09,326
+Kingston,0.09,370
+Islington,0.09,408
+East End,0.09,269
+Chatham,0.09,313
+Berkeley Square,0.08,286
+Bayswater,0.08,247
+Harley Street,0.08,269
+Hammersmith,0.08,286
+Haymarket,0.08,333
+Grosvenor Square,0.07,257
+Southwark,0.07,211
+Fleet Street,0.07,210
+Dulwich,0.07,130
+Shaftesbury Avenue,0.07,210
+Brixton,0.07,268
+Hyde Park Corner,0.07,237
+Tottenham Court Road,0.07,270
+Richmond Park,0.06,133
+Victoria Station,0.06,204
+Piccadilly,0.06,233
+South Kensington,0.06,237
+Sloane Street,0.06,194
+Jermyn Street,0.06,221
+Curzon Street,0.06,192
+Portman Square,0.05,161
+St. James'S Park,0.05,173
+Belgrave Square,0.05,151
+Camden Town,0.05,196
+Zoological Gardens,0.05,152
+Green Park,0.05,171
+Middlesex,0.05,149
+Mayfair,0.05,175
+Victoria Street,0.04,158
+South London,0.04,110
+West Kensington,0.04,142
+Streatham,0.04,148
+Euston Road,0.04,142
+Euston,0.04,136
+Regent Street,0.04,143
+Belgravia,0.04,144
+Downing Street,0.04,166
+Aldgate,0.04,132
+Enfield,0.04,65
+East London,0.04,100
+St. Pancras,0.04,145
+Edgware Road,0.04,134
+Roehampton,0.04,245
+Waterloo Bridge,0.04,148
+Eaton Square,0.04,148
+Waterloo Place,0.04,118
+Limehouse,0.04,129
+National Gallery,0.04,118
+Bond Street,0.04,165
+Westminster Bridge,0.04,133
+Fulham,0.04,148
+Lombard Street,0.04,165
+St. James'S Street,0.04,158
+Cavendish Square,0.04,177
+Battersea,0.04,130
+Hoxton,0.03,85
+Russell Square,0.03,101
+Portland Place,0.03,155
+Chancery Lane,0.03,94
+Notting Hill,0.03,169
+Twickenham,0.03,92
+Liverpool Street,0.03,118
+St. John'S Wood,0.03,112
+Harrow,0.03,111
+Marylebone,0.03,83
+Wimpole Street,0.03,113
+Gower Street,0.03,134
+Bruton Street,0.03,107
+Charing Cross Road,0.03,110
+Lowndes Square,0.03,90
+North London,0.03,91
+Clapham,0.03,103
+Albert Hall,0.03,115
+Chiswick,0.03,143
+Campden Hill,0.03,94
+Sloane Square,0.03,96
+Hampstead Heath,0.03,110
+Soho Square,0.03,86
+Kew Gardens,0.03,100
+Trafalgar,0.03,114
+Mansion House,0.03,102
+Queen'S Hall,0.03,93
+Clerkenwell,0.03,127
+Fulham Road,0.03,106
+Old Bailey,0.03,106
+Hanover Square,0.03,104
+Broad Street,0.02,100
+Brentford,0.02,57
+Gloucester Place,0.02,66
+Denmark Hill,0.02,40
+Homerton,0.02,19
+Pimlico,0.02,97
+Dover Street,0.02,78
+Plumstead,0.02,104
+Leman Street,0.02,76
+Cadogan Square,0.02,48
+Cromwell Road,0.02,72
+Melchester,0.02,52
+Marlborough Street,0.02,75
+Orpington,0.02,59
+Charing Cross,0.02,62
+Tavistock,0.02,86
+Kentish Town,0.02,68
+Kennington,0.02,64
+Chislehurst,0.02,57
+Old Kent Road,0.02,75
+Tottenham,0.02,69
+Albemarle Street,0.02,74
+Marylebone Road,0.02,84
+Tower Bridge,0.02,49
+Camberwell,0.02,71
+Pentonville,0.02,62
+Connaught,0.02,52
+Lancaster Gate,0.02,91
+Albert Memorial,0.02,60
+Leadenhall Street,0.02,56
+Hounslow,0.02,80

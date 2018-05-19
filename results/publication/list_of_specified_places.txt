@@ -1,0 +1,150 @@
+cultural
+-----
+British Museum
+London Library
+National Gallery
+South Kensington Museum
+
+parks
+-----
+Green Park
+Hyde Park
+Kensington Gardens
+Kew
+Kew Gardens
+Regent Park
+Regent'S Park
+Regents Park
+Regent’S Park
+St Jame'S Park
+St. James' Park
+St. James'S Park
+St. James’S Park
+
+political
+-----
+Downing Street
+Hyde Park Corner
+Westminster
+
+river
+-----
+Blackfriar'S Bridge
+Blackfriars Bridge
+Embankment Gardens
+London Bridge
+River Thames
+Thames
+Thames River
+Victoria Embankment
+Victoria Embankment Gardens
+Waterloo Bridge
+Westminster Bridge
+
+stations
+-----
+Euston Station
+Paddington
+Paddington Station
+St Pancras
+St. Pancras
+St. Pancras Station
+Victoria Station
+Waterloo Station
+
+misc
+-----
+Bloomsbury
+Buckingham Palace
+City
+City Of London
+Soho
+Trafalgar Square
+
+soho
+-----
+Soho
+
+bloomsbury
+-----
+Bloomsbury
+
+bloomsbury_parts
+-----
+Euston Road
+Gray'S Inn Road
+Gray’S Inn Road
+Russell Square
+Tottenham Court Road
+
+rich
+-----
+Belgravia
+Bond Street
+Chelsea
+Mayfair
+Park Lane
+
+poor
+-----
+East End
+East End Of London
+East India Dock Road
+Limehouse
+Mile End Road
+West India Dock Road
+Whitechapel
+
+all_specified
+-----
+Blackfriar'S Bridge
+Blackfriars Bridge
+Bloomsbury
+British Museum
+Buckingham Palace
+City
+City Of London
+Downing Street
+Embankment Gardens
+Euston Road
+Euston Station
+Gray'S Inn Road
+Gray’S Inn Road
+Green Park
+Hyde Park
+Hyde Park Corner
+Kensington Gardens
+Kew
+Kew Gardens
+London Bridge
+London Library
+National Gallery
+Paddington
+Paddington Station
+Regent Park
+Regent'S Park
+Regents Park
+Regent’S Park
+River Thames
+Russell Square
+Soho
+South Kensington Museum
+St Jame'S Park
+St Pancras
+St. James' Park
+St. James'S Park
+St. James’S Park
+St. Pancras
+St. Pancras Station
+Thames
+Thames River
+Tottenham Court Road
+Trafalgar Square
+Victoria Embankment
+Victoria Embankment Gardens
+Victoria Station
+Waterloo Bridge
+Waterloo Station
+Westminster
+Westminster Bridge
+

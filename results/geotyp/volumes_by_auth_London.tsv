@@ -1,0 +1,81 @@
+	author	volumes	weight	pub_date_avg	books	wordcount	ethnicity	corpus
+56	Ridge, William Pett	17.0	1.0	1906.1176470588234	17	1500268		London
+26	Gissing, George	12.0	1.0	1893.3333333333333	12	1226343		London
+46	Morgan, William De	9.0	1.0	1911.6666666666667	9	2457589		London
+16	Burke, Thomas	7.0	1.0	1925.142857142857	7	465118		London
+25	Galsworthy, John	7.0	1.0	1918.7142857142858	7	830042		London
+76	Whiteing, Richard	6.0	1.0	1901.8333333333333	6	555852		London
+54	Richardson, Dorothy	6.0	1.0	1923.0	6	449965		London
+42	Lyons, Neil	5.0	1.0	1914.2	5	383343		London
+52	Pugh, Edwin	5.0	1.0	1908.6	5	383067		London
+47	Morrison, Arthur	4.0	1.0	1897.75	4	299999		London
+65	Snaith, John Collins	4.0	1.0	1908.5	4	472102		London
+53	Raymond, Ernest	3.0	1.0	1931.3333333333333	3	605180		London
+32	Hume, Fergus W. 	3.0	1.0	1897.0	3	332814		London
+60	Sayer, Dorothy	3.0	1.0	1932.0	3	456251		London
+62	Silberrad, Una L	3.0	1.0	1906.3333333333333	3	428804		London
+79	Zangwill, Israel	3.0	1.0	1899.3333333333333	3	352912		London
+30	Hichens, Robert	2.0	1.0	1897.5	2	339162		London
+13	Bowen, Elizabeth	2.0	1.0	1935.0	2	261159		London
+77	Woolf, Virginia	2.0	1.0	1922.0	2	278316		London
+51	Priestley, J. B.	2.0	1.0	1933.0	2	395376		London
+5	Bennett, Arnold	2.0	1.0	1910.5	2	179339		London
+7	Benson, E. F.	2.0	1.0	1921.5	2	153863		London
+74	Waugh, Evelyn	2.0	1.0	1929.0	2	155770		London
+22	Firbank, Ronald	2.0	1.0	1916.0	2	91216		London
+66	Tey, Josephine	2.0	1.0	1930.0	2	179653		London
+69	Wallace, Edgar	2.0	1.0	1914.5	2	189868		London
+61	Silberrad, Una	1.0	1.0	1907.0	1	133732		London
+63	Sims, George R	1.0	1.0	1900.0	1	133384		London
+78	Yorke, Curtis	1.0	1.0	1891.0	1	52146		London
+48	Murray, David Christie	1.0	1.0	1880.0	1	208757		London
+49	Oliphant, Margaret	1.0	1.0	1894.0	1	49921		London
+50	Powell , Anthony	1.0	1.0	1931.0	1	69531		London
+64	Smith, Stevie	1.0	1.0	1936.0	1	69761		London
+75	West, Rebecca	1.0	1.0	1929.0	1	90418		London
+55	Riddell, Charlotte	1.0	1.0	1900.0	1	192343		London
+70	Walpole, Hugh	1.0	1.0	1913.0	1	203174		London
+45	Maugham, W. Somerset	1.0	1.0	1897.0	1	47213		London
+73	Waugh, Alec	1.0	1.0	1925.0	1	112505		London
+57	Rohmer, Sax	1.0	1.0	1916.0	1	108436		London
+67	Thomas, Edward	1.0	1.0	1913.0	1	81966		London
+58	Rook, Clarence	1.0	1.0	1899.0	1	67221		London
+59	Sangster, Rena U. N.	1.0	1.0	1909.0	1	58132		London
+72	Warden , Florence	1.0	1.0	1887.0	1	54354		London
+71	Ward, E. 	1.0	1.0	1893.0	1	73741		London
+68	Tomlinson, Henry	1.0	1.0	1921.0	1	53314		London
+0	Adcock, Arthur St. John	1.0	1.0	1897.0	1	32406		London
+44	Marsh, Richard	1.0	1.0	1897.0	1	134197		London
+11	Blackmore, R. D.	1.0	1.0	1890.0	1	74973		London
+19	Dickberry, F	1.0	1.0	1904.0	1	84553		London
+18	Dawson, William J	1.0	1.0	1895.0	1	93455		London
+17	Corelli , Marie	1.0	1.0	1897.0	1	14370		London
+15	Burke , Thomas	1.0	1.0	1938.0	1	114804		London
+14	Buchan, John	1.0	1.0	1916.0	1	113275		London
+12	Blumenfeld, Simon	1.0	1.0	1935.0	1	108872		London
+10	Besant, Walter	1.0	1.0	1886.0	1	74004		London
+43	MacFall, Haldane	1.0	1.0	1905.0	1	219235		London
+9	Besant , Walter	1.0	1.0	1882.0	1	70092		London
+8	Beresford, J. D.	1.0	1.0	1933.0	1	104235		London
+6	Benson , E. F.	1.0	1.0	1937.0	1	18941		London
+4	Bell, Adrian	1.0	1.0	1934.0	1	70188		London
+3	Baker, Henry Barton	1.0	1.0	1899.0	1	121054		London
+2	Arlen, Michael	1.0	1.0	1923.0	1	74552		London
+20	Dixon, Ella Hepworth	1.0	1.0	1894.0	1	75757		London
+21	Ervine, John St. John	1.0	1.0	1915.0	1	80729		London
+23	Fletcher, J. S.	1.0	1.0	1919.0	1	93967		London
+24	Forster, E.M.	1.0	1.0	1910.0	1	47851		London
+27	Grossmith, George and Weedon	1.0	1.0	1894.0	1	53255		London
+28	Hamilton, Patrick	1.0	1.0	1935.0	1	242427		London
+29	Hay, Ian	1.0	1.0	1919.0	1	50748		London
+31	Hill, Robert H.	1.0	1.0	1934.0	1	72393		London
+33	Huxley, Aldous	1.0	1.0	1923.0	1	110112		London
+34	James, Henry	1.0	1.0	1886.0	1	84232		London
+35	Johnson, Pamela Hansford	1.0	1.0	1935.0	1	106395		London
+36	Keeling, Annie E	1.0	1.0	1886.0	1	52419		London
+37	Lawless, Emily	1.0	1.0	1882.0	1	177604		London
+38	Levy, Amy	1.0	1.0	1889.0	1	27783		London
+39	Lewis, Wyndham	1.0	1.0	1930.0	1	260137		London
+1	Aldington, Richard	1.0	1.0	1934.0	1	138240		London
+41	Lucas, E. V.	1.0	1.0	1906.0	1	106595		London
+40	Lucas , E. V.	1.0	1.0	1908.0	1	81987		London

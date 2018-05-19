@@ -1,0 +1,412 @@
+Foreign
+	1880-1913
+		Blackfriar'S Bridge	0.002215
+		Blackfriars Bridge	0.000563
+		Bloomsbury	0.0
+		British Museum	0.0
+		Buckingham Palace	0.0
+		City	0.002436
+		City Of London	0.0
+		Downing Street	0.002261
+		Embankment Gardens	0.0
+		Euston Road	0.002481
+		Euston Station	0.002479
+		Gray'S Inn Road	0.0
+		Gray’S Inn Road	0.002454
+		Green Park	0.0
+		Hyde Park	0.0
+		Hyde Park Corner	0.007907
+		Kensington Gardens	0.011091
+		Kew	0.001599
+		Kew Gardens	0.000744
+		London Bridge	0.0
+		London Library	0.001264
+		National Gallery	0.002329
+		Paddington	0.007773
+		Paddington Station	0.002151
+		Regent Park	0.0
+		Regent'S Park	0.0
+		Regents Park	0.000484
+		Regent’S Park	0.001263
+		River Thames	0.001451
+		Russell Square	0.0
+		Soho	0.000444
+		South Kensington Museum	0.00203
+		St Jame'S Park	0.000808
+		St Pancras	0.000824
+		St. James' Park	0.006236
+		St. James'S Park	0.002194
+		St. James’S Park	0.0
+		St. Pancras	0.00343
+		St. Pancras Station	0.009967
+		Thames	0.002361
+		Thames River	0.004655
+		Tottenham Court Road	0.008069
+		Trafalgar Square	0.001316
+		Victoria Embankment	0.001049
+		Victoria Embankment Gardens	0.0
+		Victoria Station	0.0
+		Waterloo Bridge	0.002367
+		Waterloo Station	0.001542
+		Westminster	0.000465
+		Westminster Bridge	0.000181
+	1914-1940
+		Blackfriar'S Bridge	0.0
+		Blackfriars Bridge	0.0
+		Bloomsbury	0.0
+		British Museum	0.0
+		Buckingham Palace	0.0
+		City	0.001433
+		City Of London	0.0
+		Downing Street	0.009148
+		Embankment Gardens	0.0
+		Euston Road	0.0
+		Euston Station	0.002001
+		Gray'S Inn Road	0.0
+		Gray’S Inn Road	0.0
+		Green Park	0.0
+		Hyde Park	0.00271
+		Hyde Park Corner	0.002199
+		Kensington Gardens	0.005065
+		Kew	0.001662
+		Kew Gardens	0.0
+		London Bridge	0.0
+		London Library	0.0
+		National Gallery	0.0
+		Paddington	0.00245
+		Paddington Station	0.00063
+		Regent Park	0.0
+		Regent'S Park	0.0
+		Regents Park	0.002312
+		Regent’S Park	0.003159
+		River Thames	0.010644
+		Russell Square	0.000585
+		Soho	0.000867
+		South Kensington Museum	0.0
+		St Jame'S Park	0.000693
+		St Pancras	0.001847
+		St. James' Park	0.001627
+		St. James'S Park	0.0
+		St. James’S Park	0.0
+		St. Pancras	0.0
+		St. Pancras Station	0.006151
+		Thames	0.0
+		Thames River	0.007499
+		Tottenham Court Road	0.0011
+		Trafalgar Square	0.0
+		Victoria Embankment	0.0
+		Victoria Embankment Gardens	0.0
+		Victoria Station	0.0
+		Waterloo Bridge	0.000696
+		Waterloo Station	0.001388
+		Westminster	0.0
+		Westminster Bridge	0.0
+Hathi
+	1880-1913
+		Blackfriar'S Bridge	0.001297
+		Blackfriars Bridge	0.00015
+		Bloomsbury	5.2e-05
+		British Museum	2.4e-05
+		Buckingham Palace	7e-06
+		City	0.003558
+		City Of London	2.9e-05
+		Downing Street	0.003057
+		Embankment Gardens	7e-06
+		Euston Road	0.000662
+		Euston Station	0.001734
+		Gray'S Inn Road	8e-06
+		Gray’S Inn Road	0.000719
+		Green Park	1.3e-05
+		Hyde Park	0.000209
+		Hyde Park Corner	0.005084
+		Kensington Gardens	0.009158
+		Kew	0.000857
+		Kew Gardens	0.00025
+		London Bridge	5.6e-05
+		London Library	0.000799
+		National Gallery	0.001219
+		Paddington	0.003135
+		Paddington Station	0.00052
+		Regent Park	0.0
+		Regent'S Park	0.0
+		Regents Park	0.000841
+		Regent’S Park	0.002511
+		River Thames	0.001368
+		Russell Square	0.000125
+		Soho	0.000358
+		South Kensington Museum	0.000631
+		St Jame'S Park	0.001361
+		St Pancras	0.000395
+		St. James' Park	0.001345
+		St. James'S Park	0.000526
+		St. James’S Park	5e-06
+		St. Pancras	0.000839
+		St. Pancras Station	0.005279
+		Thames	0.000745
+		Thames River	0.003453
+		Tottenham Court Road	0.003209
+		Trafalgar Square	0.000319
+		Victoria Embankment	0.00037
+		Victoria Embankment Gardens	0.000261
+		Victoria Station	6.1e-05
+		Waterloo Bridge	0.000523
+		Waterloo Station	0.001155
+		Westminster	3.1e-05
+		Westminster Bridge	4.8e-05
+	1914-1940
+		Blackfriar'S Bridge	0.001584
+		Blackfriars Bridge	8.3e-05
+		Bloomsbury	1e-05
+		British Museum	2.5e-05
+		Buckingham Palace	8e-06
+		City	0.003371
+		City Of London	7.3e-05
+		Downing Street	0.003025
+		Embankment Gardens	0.0
+		Euston Road	0.001361
+		Euston Station	0.00406
+		Gray'S Inn Road	1.5e-05
+		Gray’S Inn Road	0.001093
+		Green Park	1.2e-05
+		Hyde Park	0.00041
+		Hyde Park Corner	0.004292
+		Kensington Gardens	0.008051
+		Kew	0.002209
+		Kew Gardens	0.000248
+		London Bridge	0.0
+		London Library	0.001218
+		National Gallery	0.00124
+		Paddington	0.005477
+		Paddington Station	0.001023
+		Regent Park	0.0
+		Regent'S Park	0.0
+		Regents Park	0.0019
+		Regent’S Park	0.005424
+		River Thames	0.001337
+		Russell Square	0.000269
+		Soho	0.000339
+		South Kensington Museum	0.000693
+		St Jame'S Park	0.000888
+		St Pancras	0.000462
+		St. James' Park	0.002897
+		St. James'S Park	0.000437
+		St. James’S Park	0.0
+		St. Pancras	0.000268
+		St. Pancras Station	0.006176
+		Thames	0.001702
+		Thames River	0.004109
+		Tottenham Court Road	0.002938
+		Trafalgar Square	0.000434
+		Victoria Embankment	0.000461
+		Victoria Embankment Gardens	0.000223
+		Victoria Station	4.9e-05
+		Waterloo Bridge	0.00128
+		Waterloo Station	0.00226
+		Westminster	1.4e-05
+		Westminster Bridge	0.000107
+London
+	1880-1913
+		Blackfriar'S Bridge	0.001695
+		Blackfriars Bridge	0.0
+		Bloomsbury	8.4e-05
+		British Museum	0.000261
+		Buckingham Palace	0.0
+		City	0.03415
+		City Of London	0.0
+		Downing Street	0.04443
+		Embankment Gardens	0.0
+		Euston Road	0.001153
+		Euston Station	0.005227
+		Gray'S Inn Road	0.0
+		Gray’S Inn Road	0.000713
+		Green Park	0.0
+		Hyde Park	0.000554
+		Hyde Park Corner	0.003769
+		Kensington Gardens	0.005122
+		Kew	0.0017
+		Kew Gardens	0.000906
+		London Bridge	0.0
+		London Library	0.00067
+		National Gallery	0.003533
+		Paddington	0.001779
+		Paddington Station	0.00036
+		Regent Park	0.0
+		Regent'S Park	0.0
+		Regents Park	0.000802
+		Regent’S Park	0.005891
+		River Thames	0.002564
+		Russell Square	0.000338
+		Soho	0.000382
+		South Kensington Museum	0.001327
+		St Jame'S Park	0.000966
+		St Pancras	9.2e-05
+		St. James' Park	0.001595
+		St. James'S Park	0.00083
+		St. James’S Park	0.0
+		St. Pancras	0.000267
+		St. Pancras Station	0.007648
+		Thames	0.000973
+		Thames River	0.005748
+		Tottenham Court Road	0.002811
+		Trafalgar Square	0.000602
+		Victoria Embankment	0.001184
+		Victoria Embankment Gardens	0.0
+		Victoria Station	0.0
+		Waterloo Bridge	0.002128
+		Waterloo Station	0.003838
+		Westminster	0.0
+		Westminster Bridge	8.4e-05
+	1914-1940
+		Blackfriar'S Bridge	0.000696
+		Blackfriars Bridge	0.000164
+		Bloomsbury	0.000436
+		British Museum	0.000166
+		Buckingham Palace	0.0
+		City	0.002189
+		City Of London	0.0
+		Downing Street	0.007158
+		Embankment Gardens	0.0
+		Euston Road	0.005916
+		Euston Station	0.003731
+		Gray'S Inn Road	0.0
+		Gray’S Inn Road	0.001071
+		Green Park	0.0
+		Hyde Park	0.000228
+		Hyde Park Corner	0.002409
+		Kensington Gardens	0.004669
+		Kew	0.002662
+		Kew Gardens	0.000416
+		London Bridge	0.0
+		London Library	0.002167
+		National Gallery	0.000899
+		Paddington	0.002028
+		Paddington Station	0.001202
+		Regent Park	0.0
+		Regent'S Park	0.0
+		Regents Park	0.002088
+		Regent’S Park	0.0092
+		River Thames	0.001389
+		Russell Square	0.000526
+		Soho	0.000396
+		South Kensington Museum	0.000162
+		St Jame'S Park	0.003251
+		St Pancras	0.000311
+		St. James' Park	0.00278
+		St. James'S Park	0.001273
+		St. James’S Park	0.0
+		St. Pancras	0.000295
+		St. Pancras Station	0.007764
+		Thames	0.003756
+		Thames River	0.006018
+		Tottenham Court Road	0.001705
+		Trafalgar Square	0.000476
+		Victoria Embankment	0.000339
+		Victoria Embankment Gardens	7.5e-05
+		Victoria Station	0.0
+		Waterloo Bridge	0.004667
+		Waterloo Station	0.003521
+		Westminster	0.000114
+		Westminster Bridge	0.0
+Prominent
+	1880-1913
+		Blackfriar'S Bridge	0.001998
+		Blackfriars Bridge	3.6e-05
+		Bloomsbury	0.000271
+		British Museum	0.0
+		Buckingham Palace	0.0
+		City	0.003493
+		City Of London	0.0
+		Downing Street	0.00315
+		Embankment Gardens	0.0
+		Euston Road	0.000673
+		Euston Station	0.004445
+		Gray'S Inn Road	0.000171
+		Gray’S Inn Road	0.001193
+		Green Park	0.0
+		Hyde Park	0.000228
+		Hyde Park Corner	0.004262
+		Kensington Gardens	0.009708
+		Kew	0.00262
+		Kew Gardens	0.000532
+		London Bridge	0.000289
+		London Library	0.00168
+		National Gallery	0.001956
+		Paddington	0.001915
+		Paddington Station	0.000369
+		Regent Park	0.0
+		Regent'S Park	0.0
+		Regents Park	0.001082
+		Regent’S Park	0.008526
+		River Thames	0.001935
+		Russell Square	0.000154
+		Soho	0.000517
+		South Kensington Museum	0.001967
+		St Jame'S Park	0.000383
+		St Pancras	0.000682
+		St. James' Park	0.001653
+		St. James'S Park	0.000502
+		St. James’S Park	0.0
+		St. Pancras	0.000675
+		St. Pancras Station	0.004976
+		Thames	0.00204
+		Thames River	0.002645
+		Tottenham Court Road	0.006601
+		Trafalgar Square	0.000526
+		Victoria Embankment	0.000381
+		Victoria Embankment Gardens	0.000863
+		Victoria Station	0.000129
+		Waterloo Bridge	0.002639
+		Waterloo Station	0.003712
+		Westminster	0.000207
+		Westminster Bridge	0.000265
+	1914-1940
+		Blackfriar'S Bridge	0.001746
+		Blackfriars Bridge	0.0
+		Bloomsbury	0.0
+		British Museum	2.4e-05
+		Buckingham Palace	0.0
+		City	0.003892
+		City Of London	9.6e-05
+		Downing Street	0.006838
+		Embankment Gardens	0.0
+		Euston Road	0.003046
+		Euston Station	0.005887
+		Gray'S Inn Road	0.0
+		Gray’S Inn Road	0.001154
+		Green Park	0.0
+		Hyde Park	0.000953
+		Hyde Park Corner	0.003427
+		Kensington Gardens	0.005464
+		Kew	0.00305
+		Kew Gardens	0.000553
+		London Bridge	0.0
+		London Library	0.001198
+		National Gallery	0.000769
+		Paddington	0.002816
+		Paddington Station	0.002293
+		Regent Park	0.0
+		Regent'S Park	0.0
+		Regents Park	0.00267
+		Regent’S Park	0.009569
+		River Thames	0.001127
+		Russell Square	0.003054
+		Soho	0.000767
+		South Kensington Museum	0.0003
+		St Jame'S Park	0.001683
+		St Pancras	0.000642
+		St. James' Park	0.003482
+		St. James'S Park	0.001161
+		St. James’S Park	0.0
+		St. Pancras	0.000693
+		St. Pancras Station	0.009029
+		Thames	0.003177
+		Thames River	0.001382
+		Tottenham Court Road	0.003255
+		Trafalgar Square	0.000318
+		Victoria Embankment	0.000658
+		Victoria Embankment Gardens	4.7e-05
+		Victoria Station	0.0
+		Waterloo Bridge	0.002745
+		Waterloo Station	0.003561
+		Westminster	0.0
+		Westminster Bridge	0.0

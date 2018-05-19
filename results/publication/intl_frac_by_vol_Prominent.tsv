@@ -1,0 +1,577 @@
+	htid	intl_frac	weight	author	title	pub_date_y	genre_y	gender	white	origin_area	wordcount
+362	pst.000026486734	1.0	1.1572284031119602	Kipling, Rudyard	The Jungle Book	1894	Fiction-Stories	Male	White	South Asia	63391
+565	umn.31951002117987b	1.0	0.3450271397752647	Myers, L. H.	The Near and the Far	1929	Fiction-Novel	Male	White	Britain	98714
+150	mdp.39015005250439	1.0	0.1475431534076506	Milne, A. A.	House at Pooh Corner	1928	Fiction-Novel	Male	White	Britain	35514
+514	uc1.b4095551	1.0	0.7974009503433401	Firbank, [Arthur Annesley] Ronald	Santal	1921	Fiction-Novel	Male	White	Britain	8918
+182	mdp.39015011304147	1.0	0.5197210242787691	Conrad, Joseph	Tales of Unrest	1898	Fiction-Stories	Male	White	Europe	74175
+166	mdp.39015008456900	0.99822695035461	2.177306989698928	Moore, George	The Brook Kerith	1916	Fiction-Novel	Male	White	Ireland	193901
+440	uc1.32106005430829	0.9936131386861314	2.147952392770469	Graves, Robert	I, Claudius	1934	Fiction-Novel	Male	White	Britain	190975
+127	mdp.39015002742446	0.9886363636363636	1.3982375496486967	Rolfe, Frederick	Don Tarquinio: A Kataleptic Phantasmatic Romance	1905	Fiction-Novel	Male	White	Britain	47111
+415	uc1.$b787245	0.9880952380952381	0.35480690788425334	Myers, L. H.	Prince Jali	1931	Fiction-Novel	Male	White	Britain	88609
+51	iau.31858004708438	0.9867549668874173	0.9765378166620213	Weyman, Stanley J.	A Gentleman of France	1893	Fiction-Novel	Male	White	Britain	173620
+414	uc1.$b787244	0.9796747967479674	0.5076339880693829	Myers, L. H.	The Pool of Vishnu	1940	Fiction-Novel	Male	White	Britain	181374
+216	mdp.39015030719598	0.975609756097561	0.9132094875334388	Wells, H. G.	The King Who Was a King	1929	Fiction-Novel	Male	White	Britain	50411
+340	osu.32435017802885	0.971830985915493	0.422432082402395	Conrad, Joseph	The Arrow of Gold	1919	Fiction-Novel	Male	White	Europe	125812
+254	mdp.39015049493359	0.9699248120300752	0.48457597615144543	James, Henry	The Ivory Tower	1917	Fiction-Novel	Male	White	Us	102726
+452	uc1.32106014380601	0.9691119691119692	0.9330841540221507	Conrad, Joseph	The Rover	1923	Fiction-Novel	Male	White	Europe	103889
+160	mdp.39015008044854	0.9681528662420382	1.0035120104232378	Compton-Burnett, Ivy	Daughters and Sons	1937	Fiction-Novel	Female	White	Britain	117111
+330	nyp.33433074942974	0.967741935483871	0.24659977843281966	Conrad, Joseph	The Shadow Line	1917	Fiction-Novel	Male	White	Europe	47050
+320	miun.afb2696.0001.001	0.967741935483871	0.3602371949597667	Wells, H. G.	The Brothers: A Story	1938	Fiction-Novel	Male	White	Britain	32208
+163	mdp.39015008194212	0.9669966996699669	1.2151910244803739	Maugham, William Somerset	The Making of a Saint	1898	Fiction-Novel	Male	White	Britain	93323
+499	uc1.b3862556	0.9659090909090909	0.31072165398494234	Compton-Burnett, Ivy	A House and Its Head	1935	Fiction-Novel	Female	White	Britain	105999
+17	coo.31924013599190	0.962962962962963	0.6018041627412127	Conrad, Joseph	Under Western Eyes	1911	Fiction-Novel	Male	White	Britain	134335
+72	inu.32000002820936	0.9596774193548387	0.6329797913401074	Conrad, Joseph	Almayer's Folly	1895	Fiction-Novel	Male	White	Europe	73320
+199	mdp.39015016415567	0.9565217391304348	0.9566572671082788	Hartley, Leslie Poles	Simonetta Perkins	1926	Fiction-Novel	Male	White	Britain	26995
+502	uc1.b3884572	0.9545454545454545	0.2042908821423247	Lewis, C. S.	The Pilgrim's Regress	1933	Fiction-Novel	Male	White	Britain	80611
+350	pst.000006696801	0.9533333333333334	0.314210370570303	Myers, L. H.	The Orissers	1922	Fiction-Novel	Male	White	Britain	178674
+257	mdp.39015053037431	0.9530271398747393	1.4172313598902972	Conrad, Joseph	Nostromo: A Tale of the Seabord	1904	Fiction-Novel	Male	White	Europe	252997
+380	pst.000046763440	0.953020134228188	1.1768903434899174	Kipling, Rudyard	Just So Stories	1902	Fiction-Stories	Male	White	South Asia	47385
+239	mdp.39015037058669	0.9529411764705883	1.6796029843051767	Pater, Walter	Imaginary Portraits	1887	Fiction-Stories	Male	White	Britain	37882
+450	uc1.32106013771271	0.9518072289156626	0.7903727477027089	James, Henry	Washington Square	1881	Fiction-Novel	Male	White	Us	78608
+433	uc1.32106001994984	0.947019867549669	1.0591261059451644	Lawrence, D. H.	The Plumed Serpent	1926	Fiction-Novel	Male	White	Britain	213442
+472	uc1.b3575558	0.9444444444444444	0.8284489486169929	Yeats, William Butler	Adoration of the Magi	1897	Fiction-Stories	Male	White	Ireland	8132
+523	uc1.b4538464	0.9416058394160585	0.3215984133603081	Conrad, Joseph	The Rescue	1920	Fiction-Novel	Male	White	Europe	159440
+339	osu.32435015440100	0.9365079365079365	0.3352048387975615	Grahame, Kenneth	The Wind in the Willows	1908	Fiction-Stories	Male	White	Britain	70343
+294	mdp.39015088638062	0.9336283185840708	0.6146040417354581	Jefferies, Richard	Bevis	1882	Fiction-Novel	Male	White	Britain	137627
+300	mdp.39076005394908	0.9298519095869062	2.7400235117769656	Wells, H. G.	The Shape of Things to Come	1933	Fiction-Novel	Male	White	Britain	175252
+506	uc1.b4083133	0.9285714285714286	0.7536096001897457	Wells, H. G.	All Aboard for Ararat	1940	Fiction-Novel	Male	White	Britain	27812
+513	uc1.b4095427	0.9267782426778245	1.8219935264339282	Ford, Ford Madox	Vive Le Roy: A Novel	1936	Fiction-Novel	Male	White	Britain	98191
+496	uc1.b3834539	0.924825174825175	1.7961825328249676	Ford, Ford Madox	The Rash Act: A Novel	1933	Fiction-Novel	Male	White	Britain	119189
+531	uc1.c052623615	0.9206349206349207	0.7143190286292386	Hope, Anthony	The Prisoner of Zenda	1894	Fiction-Novel	Male	White	Britain	66019
+71	inu.32000002529826	0.9204545454545456	0.9489508067520442	West, Rebecca	The Harsh Voice: Four Short Novels	1935	Fiction-Novel	Female	White	Ireland	104124
+416	uc1.$b787246	0.919463087248322	0.9164658821079648	Myers, L. H.	Strange Glory	1936	Fiction-Novel	Male	White	Britain	60850
+553	uc2.ark:/13960/t9h41nk9h	0.9189189189189189	2.003025695682843	Macaulay, Rose	Mystery at Geneva	1922	Fiction-Novel	Female	White	Britain	55309
+265	mdp.39015055469319	0.9137931034482761	1.2296428862446902	Orwell, George	Burmese Days	1934	Fiction-Novel	Male	White	South Asia	123577
+211	mdp.39015025040745	0.9136577708006276	2.009821482418629	Buchan, John	Greenmantle	1916	Fiction-Novel	Male	White	Britain	118624
+549	uc2.ark:/13960/t8rb78c05	0.9132075471698116	1.1333237573816883	Buchan, John	Prester John	1910	Fiction-Novel	Male	White	Britain	87515
+451	uc1.32106014299330	0.9130434782608697	0.6673052373675457	Joyce, James	Portrait of An Artist as a Young Man	1916	Fiction-Novel	Male	White	Ireland	103201
+158	mdp.39015006194115	0.9115044247787613	0.8659334416978157	West, Rebecca	The Thinking Reed	1936	Fiction-Novel	Female	White	Ireland	146523
+442	uc1.32106006269275	0.9112903225806452	0.7332924364205522	Beckett, Samuel	More Pricks than Kicks	1933	Fiction-Stories	Male	White	Ireland	63290
+459	uc1.32106016479682	0.9095022624434388	1.1278872085590044	Pater, Walter	Marius the Epicurean	1885	Fiction-Novel	Male	White	Britain	146672
+53	inu.30000001017874	0.905	0.9821166260162209	Christie, Agatha	Murder on the Orient Express	1934	Fiction-Novel	Female	White	Britain	76218
+533	uc2.ark:/13960/t06w9dv3n	0.9010989010989013	1.137752791877231	Maugham, William Somerset	The Trembling of a Leaf: Little Stories of the South Sea Islands	1921	Fiction-Stories	Male	White	Britain	89806
+190	mdp.39015013252823	0.9	0.3920750314357026	Mansfield, Katherine	The Doves' Nest, and Other Stories	1923	Fiction-Stories	Female	White	Australasia	57276
+109	mdp.39015001347221	0.8997613365155134	0.5976279188683599	Joyce, James	Finnegan's Wake	1939	Fiction-Novel	Male	White	Ireland	262406
+91	inu.39000002572209	0.898876404494382	1.4121183359090421	Firbank, [Arthur Annesley] Ronald	Concerning the Eccentricites of Cardinal Pirelli	1926	Fiction-Novel	Male	White	Britain	23589
+270	mdp.39015058132898	0.898285714285714	1.5599538520427916	James, Henry	The Bostonians	1886	Fiction-Novel	Male	White	Us	209936
+86	inu.39000001215875	0.8980891719745224	2.185587068478208	Kipling, Rudyard	The Second Jungle Book	1895	Fiction-Stories	Male	White	South Asia	107543
+69	inu.32000001674060	0.8978328173374612	1.4616398273193036	Isherwood, Christopher	Goodbye to Berlin	1939	Fiction-Novel	Male	White	Britain	82709
+324	nyp.33433074875026	0.8978102189781023	0.9792531038953347	Macaulay, Rose	The Furnace	1907	Fiction-Novel	Female	White	Britain	52362
+346	pst.000000657853	0.8977541371158385	2.8989512605432535	Graves, Robert	Claudius the God	1934	Fiction-Novel	Male	White	Britain	218449
+406	uc1.$b284297	0.8930041152263375	3.264493269098018	Galsworthy, John	Villa Rubein: A Novel	1900	Fiction-Novel	Male	White	Britain	55720
+564	umn.31951002116326o	0.892307692307692	1.5034988077800193	Kipling, Rudyard	Plain Tales from the Hills	1888	Fiction-Stories	Male	White	South Asia	97085
+497	uc1.b3834546	0.8901098901098903	1.5301917996125218	Firbank, [Arthur Annesley] Ronald	Prancing Nigger 	1924	Fiction-Novel	Male	White	Britain	22258
+128	mdp.39015002742495	0.8899521531100478	0.9131211732400373	Rolfe, Frederick	Stories Toto Told Me	1898	Fiction-Stories	Male	White	Britain	85666
+94	inu.39000003583544	0.8871473354231978	1.312782930472898	Greene, Graham	Stamboul Train	1932	Fiction-Novel	Male	White	Britain	90947
+108	mdp.39015001145211	0.8863636363636368	1.3655889463520658	Maugham, William Somerset	Cosmopolitans	1936	Fiction-Stories	Male	White	Britain	72356
+245	mdp.39015042140270	0.8853161843515549	2.4634808587862644	Kipling, Rudyard	Kim	1901	Fiction-Novel	Male	White	South Asia	141750
+368	pst.000030844360	0.8838383838383838	0.5183970630325156	Conrad, Joseph	Victory	1915	Fiction-Novel	Male	White	Europe	142953
+74	inu.32000004078566	0.8832487309644672	0.7292558357236848	Conrad, Joseph	A Set of Six	1908	Fiction-Stories	Male	White	Europe	101106
+147	mdp.39015005095529	0.8829875518672194	3.2624269510150152	Macaulay, Rose	And No Man's Wit	1940	Fiction-Novel	Female	White	Britain	138241
+453	uc1.32106014380650	0.8807947019867549	0.4435928116565157	Conrad, Joseph	An Outcast of the Islands	1896	Fiction-Novel	Male	White	Europe	127404
+429	uc1.32106001976155	0.8779661016949155	0.8952418562852331	Conrad, Joseph	Youth: A Narrative, and Two Other Stories	1902	Fiction-Stories	Male	White	Europe	123331
+493	uc1.b3834533	0.8774617067833699	1.6376427309004218	Ford, Ford Madox	When The Wicked Man	1931	Fiction-Novel	Male	White	Britain	104445
+6	coo.31924008035770	0.8765432098765432	0.49931255065699715	Wilde, Oscar	The Happy Prince and Other Tales	1888	Fiction-Stories	Male	White	Ireland	60716
+186	mdp.39015011819813	0.8746987951807228	1.9815279817637876	Lawrence, D. H.	The Escaped Cock	1929	Fiction-Novel	Male	White	Britain	78386
+522	uc1.b4410171	0.8745519713261648	1.0939924796741514	Conrad, Joseph	Suspense: A Napoleonic Novel	1925	Fiction-Novel	Male	White	Europe	95451
+319	mdp.49015001441162	0.8711656441717792	0.47252164044635964	Schreiner, Olive	The Story of an African Farm	1883	Fiction-Novel	Female	White	Sub-Saharan Africa	129109
+494	uc1.b3834537	0.8656195462478183	1.8477054375872974	Ford, Ford Madox	A Little Less Than Gods: A Romance	1928	Fiction-Novel	Male	White	Britain	116068
+105	mdp.39015000632300	0.865125240847784	2.701199162579573	Lawrence, D. H.	St. Mawr	1925	Fiction-Stories	Male	White	Britain	71912
+171	mdp.39015008995501	0.8640776699029127	2.246783248390124	Conrad, Joseph	The Sisters	1928	Fiction-Novel	Male	White	Europe	17158
+169	mdp.39015008922083	0.8632478632478628	1.1137006962447868	Isherwood, Christopher	Mr Norris Changes Trains	1935	Fiction-Novel	Male	White	Britain	78639
+213	mdp.39015030710704	0.8617886178861787	0.3987371894957999	Powys, John Cowper	Morwyn, or the Vengance of God	1937	Fiction-Novel	Male	White	Britain	115454
+170	mdp.39015008988373	0.8617021276595744	0.8257483347603859	Conrad, Joseph	Tales of Hearsay	1925	Fiction-Stories	Male	White	Europe	42606
+112	mdp.39015002174475	0.8591549295774649	1.15723174566063	Yeats, William Butler	The Celtic Twilight	1893	Fiction-Stories	Male	White	Ireland	45926
+277	mdp.39015062110369	0.8590057049714734	1.435985085553538	Joyce, James	Ulysses	1922	Fiction-Novel	Male	White	Ireland	319805
+59	inu.30000048891463	0.8584337349397593	1.0095811009329647	Rolfe, Frederick	In His Own Image	1901	Fiction-Stories	Male	White	Britain	123080
+226	mdp.39015030738333	0.8579881656804734	1.8259943829803742	Firbank, [Arthur Annesley] Ronald	Inclinations	1916	Fiction-Novel	Male	White	Britain	34640
+22	coo.31924052984741	0.8577075098814231	0.5017460986793203	James, Henry	The Ambassadors	1903	Fiction-Novel	Male	White	Us	188724
+243	mdp.39015040661087	0.852986217457887	1.7948655748497435	Forster, E. M.	A Passage to India	1924	Fiction-Novel	Male	White	Britain	136167
+185	mdp.39015011598300	0.8519417475728149	1.5345543449187968	Macaulay, Rose	Staying with Relations	1930	Fiction-Novel	Female	White	Britain	100486
+113	mdp.39015002299934	0.8505747126436781	0.6240424265651195	Wells, H. G.	Things to Come	1936	Fiction-Novel	Male	White	Britain	52179
+370	pst.000032226942	0.8493150684931507	1.1497732704465815	Maugham, William Somerset	The Narrow Corner	1932	Fiction-Novel	Male	White	Britain	95052
+179	mdp.39015010594201	0.8461538461538458	0.46972072043788154	Somerville, Edith	Some Experiences of an Irish R. M. 	1899	Fiction-Novel	Female	White	Ireland	165735
+507	uc1.b4083252	0.84375	0.7715515300053268	Wells, H. G.	The Camford Visitation	1937	Fiction-Novel	Male	White	Britain	15523
+388	uc1.$b106072	0.8427672955974848	0.7586942026894845	Lewis, Wyndham	The Wild Body: A Soldier of Humour and Other Stories	1927	Fiction-Stories	Male	White	Other	78437
+387	uc1.$b105330	0.8399999999999999	1.6518926543658623	Macaulay, Rose	Going Abroad	1934	Fiction-Novel	Female	White	Britain	101958
+229	mdp.39015031224069	0.8396226415094341	1.152239184780432	Bennett, Arnold	The Vanguard: A Fantasia	1927	Fiction-Novel	Male	White	Britain	103294
+361	pst.000026087894	0.8393351800554014	1.8530997891715506	Wells, H. G.	The World Set Free	1914	Fiction-Novel	Male	White	Britain	72912
+287	mdp.39015077636358	0.8379629629629637	1.3381117949192418	Conrad, Joseph	Lord Jim: A Tale	1900	Fiction-Novel	Male	White	Europe	181248
+358	pst.000021106644	0.8330708661417312	2.1376168253890895	Maugham, William Somerset	Ashenden: Or, The British Agent	1928	Fiction-Stories	Male	White	Britain	111182
+454	uc1.32106014473422	0.8294573643410854	0.4909795135716904	Rider Haggard, H.	King Solomon's Mines	1885	Fiction-Novel	Male	White	Britain	98337
+296	mdp.39076001009948	0.821276595744681	1.0930651937091773	Joyce, James	Dubliners	1914	Fiction-Stories	Male	White	Ireland	80466
+206	mdp.39015019666547	0.821138211382114	0.4563241294560901	Greene, Graham	The Power and the Glory	1940	Fiction-Novel	Male	White	Britain	100884
+333	nyp.33433075767313	0.8208955223880596	0.5122130293026722	Wells, H. G.	The Wonderful Visit	1895	Fiction-Novel	Male	White	Britain	48957
+266	mdp.39015055599784	0.8193548387096777	1.37648379723389	Forster, E. M.	A Room With a View	1908	Fiction-Novel	Male	White	Britain	84291
+98	inu.39000004311127	0.8148148148148138	1.391719291896772	Kipling, Rudyard	Life's Handicap	1891	Fiction-Stories	Male	White	South Asia	137961
+180	mdp.39015010701871	0.8125000000000002	0.5525371101805084	Chesterton, G. K.	The Secret of Father Brown	1927	Fiction-Novel	Male	White	Britain	75866
+307	mdp.49015000982976	0.810276679841898	0.887405869652656	Huxley, Aldous	After Many a Summer	1939	Fiction-Novel	Male	White	Britain	106706
+332	nyp.33433074968532	0.8093220338983045	1.4682079536911101	du Maurier, George	Trilby	1894	Fiction-Novel	Male	White	Europe	60161
+162	mdp.39015008178132	0.8089430894308952	1.2629590193905018	Lewis, Wyndham	Snooty Baronet	1932	Fiction-Novel	Male	White	Other	145803
+373	pst.000032609981	0.8045454545454551	0.9460940975948497	Maugham, William Somerset	The Painted Veil	1925	Fiction-Novel	Male	White	Britain	87032
+46	hvd.hn5fum	0.8030303030303023	1.6664736187386064	Childers, Erskine	The Riddle of Sands	1903	Fiction-Novel	Male	White	Britain	133407
+301	mdp.49015000796806	0.8006993006993006	1.4028806578128625	Rolfe, Frederick	The Desire and Pursuit of the Whole	1934	Fiction-Novel	Male	White	Britain	152604
+569	uva.x000427943	0.7999999999999995	0.750322286418705	Douglas, Norman [George]	South Wind	1917	Fiction-Novel	Male	White	Europe	159622
+106	mdp.39015000666704	0.7983193277310929	1.5409183564909399	Ford, Ford Madox	The Good Soldier	1915	Fiction-Novel	Male	White	Britain	86712
+223	mdp.39015030738069	0.7982062780269049	1.2789936095269467	Firbank, [Arthur Annesley] Ronald	Vainglory	1915	Fiction-Novel	Male	White	Britain	65257
+426	uc1.32106001949889	0.7980769230769222	2.100469166528985	Rolfe, Frederick	Hadrian the Seventh: A Romance	1904	Fiction-Novel	Male	White	Britain	148251
+463	uc1.32106019041554	0.7975103734439841	1.5232254608851936	James, Henry	Portrait of a Lady	1881	Fiction-Novel	Male	White	Us	296083
+8	coo.31924013216811	0.7959183673469387	0.5234463530487939	Richardson, Dorothy	Pointed Roofs	1915	Fiction-Novel	Female	White	Britain	70072
+487	uc1.b3810633	0.7941176470588236	0.5719255752939206	Conrad, Joseph	The Nature of a Crime	1923	Fiction-Novel	Male	White	Europe	22250
+90	inu.39000001740583	0.7937584803256463	2.39438683047562	Wells, H. G.	The War in the Air, and Particularly how Mr. Bert Smallways Fared While it Lasted	1908	Fiction-Novel	Male	White	Britain	115203
+561	umn.31951001206673a	0.7936507936507935	0.5931902886927506	Firbank, [Arthur Annesley] Ronald	Valmouth: A Romantic Novel	1919	Fiction-Novel	Male	White	Britain	39750
+403	uc1.$b244748	0.7919320594479822	2.1911357261881226	Macaulay, Rose	I Would Be Private	1937	Fiction-Novel	Female	White	Britain	80453
+285	mdp.39015066862098	0.7879282218597071	1.2716394861475364	Rider Haggard, H.	She	1887	Fiction-Novel	Male	White	Britain	180421
+289	mdp.39015078801274	0.7876823338735823	1.5402461633857256	Kipling, Rudyard	Stalky & Co	1899	Fiction-Stories	Male	White	South Asia	149929
+445	uc1.32106008792647	0.7864077669902912	0.6594587003528672	James, Henry	The Aspern Papers and The Turn of the Screw	1888	Fiction-Novel	Male	White	Us	116915
+81	inu.32000009144157	0.7859922178988319	0.7296082255771535	Huxley, Aldous	Those Barren Leaves	1925	Fiction-Novel	Male	White	Britain	131836
+138	mdp.39015003681684	0.7854785478547848	1.2238595322525043	Galsworthy, John	Tatterdemalion	1920	Fiction-Stories	Male	White	Britain	92662
+173	mdp.39015009039564	0.7842465753424654	1.0760106421558773	Aldington, Richard	Seven Against Reeves: A Comedy Farce	1938	Fiction-Novel	Male	White	Britain	101568
+310	mdp.49015000993858	0.7830188679245278	1.1444282575092992	Maugham, William Somerset	Christmas Holiday	1939	Fiction-Novel	Male	White	Britain	103999
+554	uc2.ark:/13960/t9s17xn03	0.7826086956521741	0.08352970662056919	Webb, Mary	Gone to Earth	1917	Fiction-Novel	Female	White	Britain	103057
+393	uc1.$b244156	0.78125	0.26644111143851507	Powys, Theodore Francis	Black Bryony	1923	Fiction-Novel	Male	White	Britain	44951
+364	pst.000028366003	0.7804878048780488	0.39709315353869645	Lawrence, D. H.	The Virgin and the Gipsy	1930	Fiction-Stories	Male	White	Britain	38644
+391	uc1.$b242750	0.7804878048780487	0.23848423071488659	Douglas, Norman [George]	In the Beginning	1927	Fiction-Novel	Male	White	Europe	64345
+104	mdp.39015000631930	0.7802690582959642	0.8279512928358186	Lawrence, D. H.	The Woman Who Rode Away, and Other Stories	1928	Fiction-Stories	Male	White	Britain	100807
+456	uc1.32106014703547	0.7799511002444982	1.6580744064695139	Lawrence, D. H.	Kangaroo	1923	Fiction-Novel	Male	White	Britain	184646
+242	mdp.39015039610442	0.7748344370860931	0.9167004359424323	Munro, Hector Hugh	The Chronicles of Clovis	1911	Fiction-Novel	Male	White	South Asia	61651
+543	uc2.ark:/13960/t3zs2w44g	0.7735849056603772	0.36773197125580015	Wells, H. G.	The Undying Fire	1919	Fiction-Novel	Male	White	Britain	53943
+135	mdp.39015003681395	0.7702702702702703	0.7792565711167241	Galsworthy, John	Jocelyn	1898	Fiction-Novel	Male	White	Britain	71084
+474	uc1.b3759956	0.7694610778443126	1.2557791528825548	Wells, H. G.	Apropos of Dolores	1938	Fiction-Novel	Male	White	Britain	99546
+432	uc1.32106001990495	0.7651006711409407	1.7035531762380458	Huxley, Aldous	Brief Candles: Stories	1930	Fiction-Stories	Male	White	Britain	98207
+286	mdp.39015076134736	0.7638888888888884	1.469537311350095	Maugham, William Somerset	The Moon and Sixpence: A Novel	1919	Fiction-Novel	Male	White	Britain	91688
+448	uc1.32106011381107	0.7635135135135136	0.9897204492077832	Stevenson, Robert Louis	The Master of Ballantrae	1889	Fiction-Novel	Male	White	Britain	111936
+168	mdp.39015008846571	0.7609427609427619	3.2770471205616483	Aldington, Richard	All Men Are  Enemies	1933	Fiction-Novel	Male	White	Britain	203524
+228	mdp.39015030846771	0.7606837606837604	0.6842425470482981	Bowen, Elizabeth	Ann Lee's, and Other Stories	1926	Fiction-Stories	Female	White	Ireland	63998
+295	mdp.39015092894172	0.760416666666667	0.6268603789528264	Douglas, Norman [George]	Unprofessional Tales	1901	Fiction-Stories	Male	White	Europe	57318
+369	pst.000031167109	0.7599999999999999	0.13900953224900886	MacDonald, George	The Princess and Curdie	1883	Fiction-Novel	Male	White	Britain	67311
+524	uc1.b4582173	0.7590909090909097	0.9658705161510255	Chesterton, G. K.	The Return of Don Quixote	1927	Fiction-Novel	Male	White	Britain	85250
+529	uc1.b5336132	0.7590361445783131	0.39181689213091236	Mansfield, Katherine	Bliss, and Other Stories	1920	Fiction-Stories	Female	White	Australasia	79284
+184	mdp.39015011506139	0.7579365079365086	0.7669191906307237	Lewis, Wyndham	Tarr	1918	Fiction-Novel	Male	White	Other	122982
+353	pst.000010073353	0.7577092511013211	0.8797165502856195	Conrad, Joseph	Romance: A Novel	1903	Fiction-Novel	Male	White	Europe	193154
+308	mdp.49015000991985	0.7575757575757578	0.26824492279735074	Lewis, Wyndham	The Childermass: Section 1	1928	Fiction-Novel	Male	White	Other	138132
+435	uc1.32106002020342	0.7569721115537853	1.1979619872370106	Waugh, Evelyn	Black Mischief	1932	Fiction-Novel	Male	White	Britain	78419
+475	uc1.b3759957	0.7569546120058558	2.6144422504583837	Wells, H. G.	The Autocracy of Mr. Parham	1930	Fiction-Novel	Male	White	Britain	97776
+100	loc.ark:/13960/t2v419n7g	0.756183745583038	0.4623742807140418	Powys, John Cowper	Wood and Stone: A Romance	1915	Fiction-Novel	Male	White	Britain	229078
+323	njp.32101068574498	0.7553191489361696	0.809044364445011	Macaulay, Rose	Abbots Verney	1906	Fiction-Novel	Female	White	Britain	130457
+484	uc1.b3796887	0.7520435967302452	1.8331868939679874	Bennett, Arnold	A Great Man: A Frolic	1904	Fiction-Novel	Male	White	Britain	74929
+167	mdp.39015008568647	0.751467710371819	1.1467605774104137	Wells, H. G.	The Holy Terror	1939	Fiction-Novel	Male	White	Britain	166778
+155	mdp.39015005786911	0.7511737089201872	1.3697216199926965	Munro, Hector Hugh	The Unbearable Bassington	1912	Fiction-Novel	Male	White	South Asia	58202
+306	mdp.49015000980798	0.7500000000000002	1.5000515291073322	Greene, Graham	England Made Me	1935	Fiction-Novel	Male	White	Britain	93815
+386	uc1.$b104460	0.749478079331941	1.647636143876714	Ford, Ford Madox	Henry for Hugh: A Novel	1934	Fiction-Novel	Male	White	Britain	108809
+389	uc1.$b106204	0.7486910994764397	0.7878167464913772	Maugham, William Somerset	The Mixture as Before	1940	Fiction-Novel	Male	White	Britain	90740
+562	umn.31951002044019w	0.7476190476190482	1.2855156646405794	Forster, E. M.	Where Angels Fear to Tread	1905	Fiction-Novel	Male	White	Britain	61141
+407	uc1.$b285105	0.7460317460317465	1.122156524713237	Munro, Hector Hugh	Reginald	1904	Fiction-Novel	Male	White	South Asia	42025
+224	mdp.39015030738119	0.7460317460317458	0.9672771044647346	Firbank, [Arthur Annesley] Ronald	The Artificial Princess	1934	Fiction-Novel	Male	White	Britain	24377
+132	mdp.39015003676882	0.7450980392156863	0.5417345274708272	Forster, E. M.	The Eternal Moment and Other Stories	1928	Fiction-Stories	Male	White	Britain	35235
+434	uc1.32106001997508	0.7441860465116271	0.4945309515654808	Lewis, Wyndham	The Revenge for Love	1937	Fiction-Novel	Male	White	Other	162718
+85	inu.39000001020226	0.7433862433862434	2.7732212849793423	Bowen, Elizabeth	The House in Paris	1935	Fiction-Novel	Female	White	Ireland	102030
+566	umn.31951002184702q	0.7422680412371142	1.1870474112551235	Rhys, Jean	Good Morning, Midnight	1939	Fiction-Novel	Female	White	Caribbean	61168
+325	nyp.33433074892518	0.7415384615384619	1.71837285011859	Mason, A. E. W.	The Four Feathers	1902	Fiction-Novel	Male	White	Britain	141575
+317	mdp.49015001344549	0.7410358565737059	1.227547479741524	Huxley, Aldous	Little Mexican, and Other Stories	1924	Fiction-Stories	Male	White	Britain	76529
+225	mdp.39015030738325	0.737864077669903	0.9007291519866758	Firbank, [Arthur Annesley] Ronald	The Flower Beneath the Foot	1923	Fiction-Novel	Male	White	Britain	42799
+19	coo.31924013636521	0.7370242214532878	0.7792954158708848	Lawrence, D. H.	Aaron's Rod	1922	Fiction-Novel	Male	White	Britain	138799
+60	inu.30000048970531	0.7330960854092525	1.7754013610755672	Sassoon, Siegfried	Sherston's Progress	1936	Fiction-Novel	Male	White	Britain	59238
+394	uc1.$b244157	0.7317073170731705	0.41620493430476063	Powys, Theodore Francis	Innocent Birds	1926	Fiction-Novel	Male	White	Britain	73739
+482	uc1.b3796874	0.7305389221556888	0.723516834046269	Bennett, Arnold	Accident	1929	Fiction-Novel	Male	White	Britain	86389
+183	mdp.39015011356758	0.7304785894206556	1.7799979099188201	Bennett, Arnold	The Grand Babylon Hotel: A Fantasia on Modern Themes	1902	Fiction-Novel	Male	White	Britain	83476
+44	hvd.hn1ndc	0.7287066246056768	2.3094839609853577	Allen, Grant	Miss Cayley's Adventures	1899	Fiction-Novel	Male	White	Other	102746
+359	pst.000021133824	0.7285714285714285	1.5184442883155502	Stevenson, Robert Louis	Treasure Island	1883	Fiction-Novel	Male	White	Britain	17254
+201	mdp.39015016884994	0.7279411764705881	0.6054498073218061	Chesterton, G. K.	The Incredulity of Father Brown	1926	Fiction-Stories	Male	White	Britain	84072
+50	hvd.hwpatg	0.7269565217391277	1.7650563401043065	Wells, H. G.	The Passionate Friends	1913	Fiction-Novel	Male	White	Britain	121927
+537	uc2.ark:/13960/t1cj8gv9c	0.7217391304347822	0.5839237681754409	Conrad, Joseph	Within the Tides: Tales	1915	Fiction-Stories	Male	White	Europe	73711
+341	osu.32435017894775	0.720574162679428	2.3950691798207444	Wells, H. G.	Mr. Britling Sees it Through	1916	Fiction-Novel	Male	White	Britain	163301
+443	uc1.32106006956004	0.7196261682242987	0.6571073308050168	Mansfield, Katherine	The Aloe	1930	Fiction-Stories	Female	White	Australasia	60945
+535	uc2.ark:/13960/t0wp9wh4k	0.7192982456140351	0.555361717745763	Mansfield, Katherine	In a German Pension	1911	Fiction-Novel	Female	White	Australasia	38414
+334	nyp.33433081998340	0.71859296482412	1.070601707322164	Chesterton, G. K.	Manalive	1912	Fiction-Novel	Male	White	Britain	69569
+120	mdp.39015002710260	0.7181208053691277	0.8955668688978602	Powell, Anthony	Venusberg	1932	Fiction-Novel	Male	White	Britain	62270
+97	inu.39000004309766	0.7142857142857151	0.7119244285739387	Chesterton, G. K.	The Paradoxes of Mr. Pond	1937	Fiction-Stories	Male	White	Britain	62561
+326	nyp.33433074892724	0.7142857142857149	0.9578768393018866	Maugham, William Somerset	Orientations	1899	Fiction-Stories	Male	White	Britain	60173
+518	uc1.b4095607	0.7103658536585367	2.0957038922939537	Ford, Ford Madox	An English Girl: A Romance	1907	Fiction-Novel	Male	White	Britain	117156
+356	pst.000019744087	0.7055016181229768	1.205714414533439	Maugham, William Somerset	The Magician	1908	Fiction-Novel	Male	White	Britain	95919
+304	mdp.49015000920166	0.7052631578947366	0.3832798850445144	Bowen, Elizabeth	The Hotel	1927	Fiction-Novel	Female	White	Ireland	92768
+511	uc1.b4093278	0.703947368421052	0.8899734587127509	Galsworthy, John	Maid in Waiting	1931	Fiction-Novel	Male	White	Britain	127846
+573	wau.39352007039084	0.7035775127768309	2.048765069986499	Macaulay, Rose	Told by an Idiot	1923	Fiction-Novel	Female	White	Britain	107235
+541	uc2.ark:/13960/t28913645	0.7027027027027035	0.7285442195557307	Macaulay, Rose	The Lee Shore	1913	Fiction-Novel	Female	White	Britain	114048
+397	uc1.$b244162	0.7027027027027029	0.1489130439842497	Powys, Theodore Francis	The Two Thieves	1933	Fiction-Stories	Male	White	Britain	92995
+309	mdp.49015000993841	0.7025862068965516	0.9471177945241807	Maugham, William Somerset	The Casuarina Tree: Six Stories	1926	Fiction-Stories	Male	White	Britain	91680
+52	iau.31858005598952	0.7020547945205468	1.76927713942833	Bennett, Arnold	The Loot of Cities: Being the Adventures of a Millionaire in Search of Joy (A Fantasia)	1905	Fiction-Stories	Male	White	Britain	61770
+207	mdp.39015019950834	0.7017543859649118	0.8261177596610012	Munro, Hector Hugh	Reginald in Russia, and Other Sketches	1910	Fiction-Stories	Male	White	South Asia	25824
+264	mdp.39015055182078	0.7006651884700669	2.0654383123749542	Ford, Ford Madox	No Enemy: A Tale of Reconstruction	1929	Fiction-Novel	Male	White	Britain	81725
+405	uc1.$b251513	0.7	1.1797472813507368	Chesterton, G. K.	Four Faultless Felons 	1930	Fiction-Stories	Male	White	Britain	82485
+151	mdp.39015005273563	0.6966580976863739	0.5626670283794102	Lewis, Wyndham	The Apes of God	1930	Fiction-Novel	Male	White	Other	258755
+390	uc1.$b242636	0.6964285714285716	0.28839493368480956	Mansfield, Katherine	The Garden Party and Other Stories	1922	Fiction-Stories	Female	White	Australasia	72676
+227	mdp.39015030742442	0.6964285714285715	0.30794555259141976	Douglas, Norman [George]	They Went	1920	Fiction-Novel	Male	White	Europe	68062
+117	mdp.39015002692823	0.6958174904942975	1.211886621900439	Waugh, Evelyn	Scoop	1938	Fiction-Novel	Male	White	Britain	81224
+38	hvd.32044018923557	0.6956521739130429	0.617482316562369	Huxley, Aldous	Chrome Yellow	1921	Fiction-Novel	Male	White	Britain	69705
+240	mdp.39015037454173	0.695464362850972	2.020700863823889	Stevenson, Robert Louis	Weir of Hermiston	1896	Fiction-Novel	Male	White	Britain	85757
+195	mdp.39015014579091	0.6953642384105962	0.9806610892987465	Aldington, Richard	Rejected Guest	1939	Fiction-Novel	Male	White	Britain	115260
+385	uc1.$b104376	0.6944444444444444	0.1255113430612077	Powys, Theodore Francis	Unclay	1932	Fiction-Novel	Male	White	Britain	107352
+73	inu.32000002887836	0.6941431670282003	1.4958014246114346	Wells, H. G.	The World of William Clissold	1926	Fiction-Novel	Male	White	Britain	115350
+200	mdp.39015016867767	0.6930693069306926	0.7445101297093123	Bowen, Elizabeth	The Last September	1929	Fiction-Novel	Female	White	Ireland	101548
+366	pst.000029198023	0.6923076923076923	0.21854318958141575	Lewis, C. S.	Out of the Silent Planet	1938	Fiction-Novel	Male	White	Britain	66791
+555	uiug.30112037331284	0.6893617021276592	1.9659707830392676	Allen, Grant	An African Millionaire	1897	Fiction-Novel	Male	White	Other	89477
+281	mdp.39015066069033	0.6880733944954116	0.6610218649134136	Stevenson, Robert Louis	The New Arabian Nights	1882	Fiction-Stories	Male	White	Britain	123433
+236	mdp.39015032333562	0.6875000000000013	0.8978596243695997	Munro, Hector Hugh	Beasts and Super-Beasts	1914	Fiction-Novel	Male	White	South Asia	73366
+360	pst.000022830753	0.6825396825396829	1.0541774438599252	Wells, H. G.	Star-Begotten: A Biological Fantasia	1937	Fiction-Novel	Male	White	Britain	44735
+312	mdp.49015000998766	0.6781609195402296	0.3745158927095756	Powys, Theodore Francis	Mr. Tasker's Gods	1925	Fiction-Novel	Male	White	Britain	86944
+557	uiug.30112041400711	0.6746987951807231	1.075651332261334	Bentley, E. C.	Trent's Last Case	1913	Fiction-Novel	Male	White	Britain	86640
+198	mdp.39015016414727	0.6740331491712694	0.6490231976713694	Maugham, William Somerset	Ah, King: Six Stories	1933	Fiction-Stories	Male	White	Britain	104378
+238	mdp.39015034647183	0.6725146198830402	0.757408225756888	Huxley, Aldous	Brave New World	1932	Fiction-Novel	Male	White	Britain	84500
+26	coo1.ark:/13960/t14m9r09c	0.6716417910447758	0.38654026691079496	Galsworthy, John	The Little Man, and Other Stories	1915	Fiction-Stories	Male	White	Britain	64874
+466	uc1.b000790794	0.6666666666666667	0.44541376658613596	West, Rebecca	Return of the Soldier	1918	Fiction-Novel	Female	White	Ireland	35292
+80	inu.32000007265780	0.6666666666666665	0.5373008613592843	Lawrence, D. H.	Sun	1928	Fiction-Stories	Male	White	Britain	8359
+274	mdp.39015060669036	0.6625258799171847	1.453138111453231	Wells, H. G.	A Modern Utopia	1905	Fiction-Novel	Male	White	Britain	124403
+468	uc1.b3209748	0.6623376623376629	0.5367696316940992	Lawrence, D. H.	The Ladybird; The Fox; The Captain's Doll	1923	Fiction-Stories	Male	White	Britain	107380
+348	pst.000005348527	0.6622516556291391	0.6981617879935109	Conrad, Joseph	The Inheritors: An Extravagant Story	1901	Fiction-Novel	Male	White	Europe	80949
+375	pst.000033636887	0.658482142857144	2.10451491833996	Conan Doyle, Arthur	The Sign of Four	1889	Fiction-Novel	Male	White	Britain	79674
+342	osu.32435018323915	0.6574999999999984	0.9876823660806587	Bennett, Arnold	The Price of Love: A Tale	1914	Fiction-Novel	Male	White	Britain	151577
+526	uc1.b4717712	0.6567164179104479	0.592011267660677	Wells, H. G.	Tales of Space and Time	1899	Fiction-Stories	Male	White	Britain	84716
+421	uc1.31175005812105	0.6555555555555562	0.6894556409678652	Huxley, Aldous	Mortal Coils	1922	Fiction-Stories	Male	White	Britain	48857
+247	mdp.39015043198889	0.6527050610820234	1.0960879628838038	Hall, Radclyffe	The Well of Loneliness	1928	Fiction-Novel	Female	White	Britain	195659
+479	uc1.b3759971	0.65	0.5571579386809967	Wells, H. G.	Men Like Gods	1923	Fiction-Novel	Male	White	Britain	94046
+525	uc1.b4585024	0.6479820627802695	1.0542553301447621	Wells, H. G.	Babes in the Darkling Wood	1940	Fiction-Novel	Male	White	Britain	158336
+250	mdp.39015046801612	0.645669291338583	0.6661094294494362	Huxley, Aldous	Crome Yellow	1921	Fiction-Novel	Male	White	Britain	71359
+343	osu.32435052478203	0.6447761194029857	0.5506942479701994	Lawrence, D. H.	Women in Love	1920	Fiction-Novel	Male	White	Britain	227680
+261	mdp.39015053611367	0.6441441441441438	1.8570558341889094	Wells, H. G.	The Research Magnificent	1915	Fiction-Novel	Male	White	Britain	134227
+172	mdp.39015009004717	0.64186046511628	1.4978517092647925	Aldington, Richard	Soft Answers 	1932	Fiction-Stories	Male	White	Britain	107446
+15	coo.31924013586585	0.6417910447761199	0.6803765924456265	Bennett, Arnold	Clayhanger	1910	Fiction-Novel	Male	White	Britain	110570
+567	umn.31951p00148123s	0.6407766990291258	0.4283034316872872	Ford, Ford Madox	The Benefactor: A Tale of a Small Circle	1905	Fiction-Novel	Male	White	Britain	90007
+0	aeu.ark:/13960/t12n7s247	0.640000000000001	1.0758424358519143	Bennett, Arnold	The Ghost: A Fantasia on Modern Themes	1907	Fiction-Novel	Male	White	Britain	69578
+57	inu.30000038183293	0.6395663956639601	2.693228491466288	Conan Doyle, Arthur	A Study in Scarlet	1887	Fiction-Novel	Male	White	Britain	102559
+31	coo1.ark:/13960/t9v12m24d	0.6375545851528374	0.6333141333807555	Chesterton, G. K.	The Man Who Knew Too Much, and Other Stories	1922	Fiction-Stories	Male	White	Britain	135334
+141	mdp.39015004165125	0.6371681415929207	0.4691929800972151	Compton-Burnett, Ivy	Dolores	1911	Fiction-Novel	Female	White	Britain	90140
+28	coo1.ark:/13960/t5db8kz2x	0.6363636363636365	0.45693929801262356	Sinclair, May	The Life and Death of Harriett Frean	1922	Fiction-Novel	Female	White	Britain	27030
+237	mdp.39015032477062	0.6360655737704904	0.6265371827769725	Huxley, Aldous	Eyeless in Gaza	1936	Fiction-Novel	Male	White	Britain	182198
+528	uc1.b4973388	0.6359126984126994	1.377200849855592	Lawrence, D. H.	The Boy in the Bush	1924	Fiction-Novel	Male	White	Britain	273939
+372	pst.000032609554	0.635593220338984	0.9887927762455084	Kipling, Rudyard	The Light that Failed	1890	Fiction-Novel	Male	White	South Asia	89330
+352	pst.000008520463	0.6350093109869664	2.6058705143343137	Smith, Stevie	Over the Frontier	1938	Fiction-Novel	Female	White	Britain	77128
+181	mdp.39015011040246	0.6330645161290355	1.8437037009501323	Wells, H. G.	Joan and Peter: The Story of an Education	1918	Fiction-Novel	Male	White	Britain	251722
+532	uc2.ark:/13960/fk8pc2tq9r	0.6291666666666644	0.7907145007706331	James, Henry	The Wings of the Dove	1902	Fiction-Novel	Male	White	Us	227202
+396	uc1.$b244159	0.6285714285714284	0.18172461504194004	Powys, Theodore Francis	Mark Only	1924	Fiction-Novel	Male	White	Britain	72085
+101	mdp.39015000017742	0.6276150627615071	1.23269414294624	Aldington, Richard	Road to Glory	1930	Fiction-Stories	Male	White	Britain	72566
+40	hvd.32044020572954	0.6250000000000013	1.5611588515771404	Allen, Grant	The British Barbarians	1895	Fiction-Novel	Male	White	Other	57538
+241	mdp.39015039039691	0.6250000000000002	0.26559618575137917	Christie, Agatha	The Murder of Roger Ackroyd	1926	Fiction-Novel	Female	White	Britain	90188
+552	uc2.ark:/13960/t9g450491	0.625	0.30284197431659476	Galsworthy, John	Awakening	1920	Fiction-Stories	Male	White	Britain	9887
+10	coo.31924013493758	0.623556581986142	1.7905709907266691	Kipling, Rudyard	Rewards and Fairies	1910	Fiction-Novel	Male	White	Britain	90508
+282	mdp.39015066195218	0.6230269266480948	1.8848145855972795	Shorthouse, Joseph Henry	John Inglesant	1881	Fiction-Novel	Male	White	Britain	213864
+354	pst.000013460631	0.6229946524064176	1.2235693829931935	Bowen, Elizabeth	To the North	1932	Fiction-Novel	Female	White	Ireland	114402
+382	pst.000056831450	0.6225165562913898	0.60215115257721	Bennett, Arnold	Anna of the Five Towns: A Novel	1902	Fiction-Novel	Male	White	Britain	93856
+209	mdp.39015020726702	0.6206896551724144	0.4892407863414481	Bowen, Elizabeth	The Cat Jumps, and Other Stories	1934	Fiction-Stories	Female	White	Ireland	66556
+419	uc1.$b85948	0.6202723146747352	0.9572468390978067	Bennett, Arnold	The Old Wives' Tale	1908	Fiction-Novel	Male	White	Britain	258445
+129	mdp.39015003448845	0.6192893401015229	0.6896171396326961	Huxley, Aldous	Point Counter Point	1928	Fiction-Novel	Male	White	Britain	213835
+558	uiug.30112042040854	0.6186770428015573	0.669688022357067	Sinclair, May	Mary Olivier, A Life	1919	Fiction-Novel	Female	White	Britain	143632
+392	uc1.$b243988	0.6170212765957442	0.17798086502287114	Powys, Theodore Francis	Mr. Weston's Good Wine	1927	Fiction-Novel	Male	White	Britain	98836
+411	uc1.$b439708	0.6166666666666667	0.5133381223543019	Bowen, Elizabeth	Encounters	1925	Fiction-Stories	Female	White	Ireland	43746
+92	inu.39000002612757	0.6158301158301172	1.0963325926657277	Hardy, Thomas	The Mayor of Casterbridge	1886	Fiction-Novel	Male	White	Britain	176839
+316	mdp.49015001034074	0.6153846153846156	0.6889439535594396	Chesterton, G. K.	The Man Who Was Thursday: A Nightmare	1908	Fiction-Novel	Male	White	Britain	77686
+508	uc1.b4088177	0.6153846153846154	0.2605254189928667	Nesbit, Edith	The Railway Children	1906	Fiction-Novel	Female	White	Britain	74704
+82	inu.39000000350756	0.614803625377643	0.9569695152219891	Powys, John Cowper	Weymouth Sands: A Novel	1934	Fiction-Novel	Male	White	Britain	258911
+116	mdp.39015002606757	0.6139705882352946	0.9302152083545149	Ford, Ford Madox	No More Parades: A Novel	1925	Fiction-Novel	Male	White	Britain	109440
+418	uc1.$b794738	0.613333333333334	1.0813441147825094	Firbank, [Arthur Annesley] Ronald	Caprice	1917	Fiction-Novel	Male	White	Britain	25959
+246	mdp.39015043188716	0.6129032258064525	0.3862463863932374	Hardy, Thomas	Tess of the D'Urbervilles	1891	Fiction-Novel	Male	White	Britain	180235
+124	mdp.39015002711649	0.6122448979591835	0.28514181982084896	Powys, Theodore Francis	Captain Patch: Twenty-One Stories	1935	Fiction-Stories	Male	White	Britain	64317
+303	mdp.49015000915224	0.6115214180206796	0.8069992850911347	Bennett, Arnold	Imperial Palace	1930	Fiction-Novel	Male	White	Britain	313983
+279	mdp.39015065979588	0.6111111111111112	0.5008435567200985	Lehmann, Rosamond	Invitation to the Waltz	1932	Fiction-Novel	Female	White	Britain	67256
+400	uc1.$b244479	0.6111111111111107	1.016065066922493	Richardson, Dorothy	Oberland	1927	Fiction-Novel	Female	White	Britain	46413
+161	mdp.39015008045257	0.6111111111111103	0.8747368323600735	Bowen, Elizabeth	The Death of the Heart	1938	Fiction-Novel	Female	White	Ireland	146332
+469	uc1.b3346919	0.6098901098901086	1.3439615296895644	Ford, Ford Madox	"The ""Half Moon"": A Romance of the Old World and the New"	1909	Fiction-Novel	Male	White	Britain	101369
+248	mdp.39015046387364	0.6090651558073654	0.6940299594358632	Wells, H. G.	Country of the Blind	1911	Fiction-Stories	Male	White	Britain	190365
+293	mdp.39015080830469	0.607594936708858	0.7744658254101295	Hardy, Thomas	The Woodlanders	1887	Fiction-Novel	Male	White	Britain	190891
+133	mdp.39015003679985	0.6065573770491819	0.8820188654359039	Galsworthy, John	Captures	1923	Fiction-Stories	Male	White	Britain	77654
+378	pst.000045760310	0.6045454545454549	1.3479211862077836	Bennett, Arnold	Tales of the Five Towns	1905	Fiction-Stories	Male	White	Britain	61087
+574	wu.89065155434	0.6041666666666667	0.4551030171097917	Forster, E. M.	The Celestial Omnibus and Other Stories	1911	Fiction-Stories	Male	White	Britain	39475
+290	mdp.39015079150069	0.6040609137055823	1.5377361236885105	Wilde, Oscar	The Picture of Dorian Gray	1891	Fiction-Novel	Male	White	Ireland	95897
+473	uc1.b3741636	0.6019417475728153	0.7833597223388373	Stevenson, Robert Louis	The Black Arrow	1888	Fiction-Novel	Male	White	Britain	98423
+146	mdp.39015005041283	0.600000000000001	0.6559780303710779	Chesterton, G. K.	The Wisdom of Father Brown	1912	Fiction-Novel	Male	White	Britain	85584
+570	uva.x000618958	0.599999999999999	1.0758573257705355	Maugham, William Somerset	The Explorer	1907	Fiction-Novel	Male	White	Britain	93929
+444	uc1.32106007991901	0.5963636363636358	0.5337771392575823	du Maurier, Daphne	Rebecca	1938	Fiction-Novel	Female	White	Britain	192825
+481	uc1.b3759999	0.5950920245398774	0.505470876325794	Aldington, Richard	Very Heaven	1937	Fiction-Novel	Male	White	Britain	120693
+196	mdp.39015014689973	0.593922651933704	1.407735328101048	Sassoon, Siegfried	Memoir of an Infantry Officer	1930	Fiction-Novel	Male	White	Britain	96245
+527	uc1.b4938307	0.5934065934065942	1.0289963994886742	Hardy, Thomas	Two on a Tower	1882	Fiction-Novel	Male	White	Britain	132397
+501	uc1.b3865736	0.5931677018633554	1.3595868059468899	Williams, Charles	Shadows of Ecstasy	1933	Fiction-Novel	Male	White	Britain	88642
+194	mdp.39015014510633	0.5925925925925926	0.2876537560020518	Mansfield, Katherine	Something Childish, and Other Stories	1924	Fiction-Stories	Female	White	Australasia	70261
+510	uc1.b4091384	0.5925925925925917	0.7124311498108888	Lawrence, D. H.	The Lost Girl	1920	Fiction-Novel	Male	White	Britain	170213
+153	mdp.39015005691608	0.5922330097087373	0.37093639743163626	James, Henry	The Sense of the Past	1917	Fiction-Novel	Male	White	Us	103927
+546	uc2.ark:/13960/t71v5hr9z	0.5921052631578957	0.47432255897827513	Galsworthy, John	Saint's Progress	1919	Fiction-Novel	Male	White	Britain	119939
+110	mdp.39015002148933	0.591999999999998	1.341275300699961	Smith, Stevie	Novel on Yellow Paper	1936	Fiction-Novel	Female	White	Britain	69761
+299	mdp.39076005037937	0.5902335456475584	1.4931555939642518	Galsworthy, John	The White Monkey: a Silent Wooing	1924	Fiction-Novel	Male	White	Britain	118061
+347	pst.000002047836	0.5891238670694852	1.2228627780597021	Maugham, William Somerset	Of Human Bondage	1915	Fiction-Novel	Male	White	Britain	303922
+13	coo.31924013586551	0.5876777251184848	1.7725800879152047	Bennett, Arnold	The Card: A Story of Adventure in the Five Towns	1911	Fiction-Novel	Male	White	Britain	89104
+417	uc1.$b794703	0.5867768595041334	1.1027650869562233	Galsworthy, John	The Burning Spear, Being the Experiences of Mr. John Lavender in a Time of War	1919	Fiction-Novel	Male	White	Britain	82134
+331	nyp.33433074946256	0.5855421686746987	1.3922666533276233	Allen, Grant	Hilda Wade	1900	Fiction-Novel	Male	White	Other	111562
+337	nyp.33433115574562	0.5853658536585391	2.029555717619523	Ford, Ford Madox	Zeppelin Nights	1915	Fiction-Stories	Male	White	Britain	75609
+519	uc1.b4097693	0.5822784810126589	0.7203116112811243	Ford, Ford Madox	The Shifting of the Fire	1892	Fiction-Novel	Male	White	Britain	82097
+556	uiug.30112041393841	0.5814814814814815	1.499331638251037	Bennett, Arnold	The Lion's Share	1916	Fiction-Novel	Male	White	Britain	134799
+188	mdp.39015012896208	0.5813953488372092	0.2955922836455647	Wells, H. G.	The Island of Dr Moreau	1896	Fiction-Novel	Male	White	Britain	54446
+204	mdp.39015018991433	0.5795275590551199	0.7866820491887461	Powys, John Cowper	Maiden Castle	1936	Fiction-Novel	Male	White	Britain	302110
+504	uc1.b4080428	0.5772357723577234	1.0953603187410328	Wells, H. G.	Brynhild	1937	Fiction-Novel	Male	White	Britain	84056
+3	aeu.ark:/13960/t6d237w7x	0.5770609318996421	1.733875901658411	Munro, Hector Hugh	When William Came	1913	Fiction-Novel	Male	White	South Asia	60225
+357	pst.000020900496	0.5764705882352943	0.6374911855908214	Wells, H. G.	In the Days of the Comet	1906	Fiction-Novel	Male	White	Britain	99808
+139	mdp.39015003681742	0.5764075067024126	1.2931492142999377	Galsworthy, John	The Silver Spoon	1926	Fiction-Novel	Male	White	Britain	107957
+439	uc1.32106005418808	0.5763636363636362	1.5971196436832205	Chesterton, G. K.	The Flying Inn	1914	Fiction-Stories	Male	White	Britain	128889
+203	mdp.39015018978745	0.57627118644068	1.7356820338379129	Stevenson, Robert Louis	The Wrong Box	1889	Fiction-Novel	Male	White	Britain	101780
+478	uc1.b3759970	0.5757575757575772	1.1147397965014465	Wells, H. G.	Meanwhile: The Picture of a Lady	1927	Fiction-Novel	Male	White	Britain	99718
+480	uc1.b3759972	0.575438596491227	1.0762294061064483	Wells, H. G.	Mr. Blettsworthy on Rampole Island	1928	Fiction-Novel	Male	White	Britain	99113
+517	uc1.b4095606	0.5731707317073171	0.7149554622598815	Ford, Ford Madox	A Man Could Stand Up--A Novel	1926	Fiction-Novel	Male	White	Britain	85853
+260	mdp.39015053230531	0.5708502024291511	0.9562641638610696	Wells, H. G.	The Soul of a Bishop	1917	Fiction-Novel	Male	White	Britain	96674
+490	uc1.b3811092	0.5695652173913042	0.8037647969370665	Bennett, Arnold	The Woman Who Stole Everything, and Other Stories	1927	Fiction-Stories	Male	White	Britain	107100
+534	uc2.ark:/13960/t0pr7q78x	0.5684931506849307	0.6263224039067014	Ford, Ford Madox	The Panel: A Sheer Comedy	1912	Fiction-Novel	Male	White	Britain	87246
+77	inu.32000005550878	0.5666666666666668	0.4958522993356239	Chesterton, G. K.	The Scandal of Father Brown	1935	Fiction-Stories	Male	White	Britain	67933
+193	mdp.39015014506813	0.5653846153846154	0.911693737899844	Hardy, Thomas	The Well-Beloved	1897	Fiction-Novel	Male	White	Britain	106737
+355	pst.000019367736	0.5641891891891886	0.6840037304281276	Conrad, Joseph	Typhoon and Other Stories	1903	Fiction-Stories	Male	White	Europe	161966
+256	mdp.39015050807257	0.562248995983936	1.20973598955206	Macaulay, Rose	Non-Combatants and Others	1916	Fiction-Novel	Female	White	Britain	77037
+205	mdp.39015019638595	0.5621118012422357	1.5973874513260313	Myers, L. H.	"The ""Clio"""	1925	Fiction-Novel	Male	White	Britain	75446
+142	mdp.39015004253061	0.5583038869257972	0.7956594362871044	Hornung, E. W.	The Amateur Cracksman	1899	Fiction-Stories	Male	White	Britain	133122
+485	uc1.b3796888	0.5581395348837226	1.45224846375803	Bennett, Arnold	The Grim Smile of the Five Towns	1907	Fiction-Novel	Male	White	Britain	77574
+477	uc1.b3759962	0.5579268292682924	1.2093362617502843	Wells, H. G.	The Dream	1924	Fiction-Novel	Male	White	Britain	101512
+495	uc1.b3834538	0.555831265508685	2.0260148624333	Ford, Ford Madox	Privy Seal: His Last Venture	1907	Fiction-Novel	Male	White	Britain	74448
+538	uc2.ark:/13960/t1vd70k9k	0.5538922155688597	1.8435552081295103	Ford, Ford Madox	The Young Lovell: A Romance	1913	Fiction-Novel	Male	White	Britain	135616
+123	mdp.39015002711490	0.5538461538461541	0.2657301790865628	Powys, Theodore Francis	The Left Leg	1923	Fiction-Stories	Male	White	Britain	91551
+351	pst.000006721145	0.5517241379310344	0.41944467771562083	Walpole, Hugh	Mr. Perrin and Mr. Traill	1911	Fiction-Novel	Male	White	Britain	77631
+62	inu.30000081529376	0.5502283105022817	1.6057475522203868	Waugh, Evelyn	A Handful of Dust	1934	Fiction-Novel	Male	White	Britain	102091
+267	mdp.39015056229209	0.5490196078431367	0.4308418218543378	Wells, H. G.	The Time Machine	1895	Fiction-Novel	Male	White	Britain	44304
+114	mdp.39015002311556	0.5470085470085471	0.44705271432214455	Burnett, Frances Hodgston	The Secret Garden	1911	Fiction-Novel	Female	White	Britain	97953
+88	inu.39000001458897	0.5469613259668482	2.819396045261926	Kipling, Rudyard	Puck of Pook's Hill	1906	Fiction-Stories	Male	White	South Asia	96111
+545	uc2.ark:/13960/t6057wc8c	0.5466237942122159	1.6782535497624567	Bennett, Arnold	The Matador of the Five Towns, and Other Stories	1912	Fiction-Stories	Male	White	Britain	138715
+447	uc1.32106011340103	0.5464480874316938	0.5439609016992503	James, Henry	What Maisie Knew	1897	Fiction-Novel	Male	White	Us	125914
+428	uc1.32106001975207	0.5416666666666667	0.0784718639998997	Compton-Burnett, Ivy	Men and Wives	1931	Fiction-Novel	Female	White	Britain	114469
+395	uc1.$b244158	0.5416666666666665	0.13499542831686975	Powys, Theodore Francis	Kindness in a Corner	1930	Fiction-Novel	Male	White	Britain	66540
+83	inu.39000000350780	0.5415019762845847	0.5962867641916083	Powys, John Cowper	Wolf Solent	1929	Fiction-Novel	Male	White	Britain	317604
+9	coo.31924013216837	0.540983606557377	0.7125261945421578	Richardson, Dorothy	Honeycomb	1917	Fiction-Novel	Female	White	Britain	64084
+221	mdp.39015030724986	0.5403225806451614	0.6429146286873909	Chesterton, G. K.	Tales of the Long Bow	1925	Fiction-Stories	Male	White	Britain	72187
+544	uc2.ark:/13960/t4hm5k49t	0.5401459854014599	0.31939884031299415	Lawrence, D. H.	The White Peacock	1911	Fiction-Novel	Male	White	Britain	160538
+512	uc1.b4095308	0.5386819484240691	1.3822278486785773	Ford, Ford Madox	A Call: The Tale of Two Passions	1910	Fiction-Novel	Male	White	Britain	94501
+11	coo.31924013536119	0.5384615384615401	1.4276356730304331	Bennett, Arnold	The Sinews of War: A Romance of London and the Sea	1906	Fiction-Novel	Male	White	Britain	102244
+408	uc1.$b312377	0.5384615384615375	0.9326023010639367	Rhys, Jean	After Leaving Mr Mackenzie	1931	Fiction-Novel	Female	White	Caribbean	52172
+89	inu.39000001588149	0.5375722543352602	1.1262357323884065	Delafield, E. M.	Diary of a Provincial Lady	1930	Fiction-Novel	Female	White	Britain	57492
+253	mdp.39015048709714	0.5370370370370385	0.33480133435328907	de la Mare, Walter	Memoirs of a Midget	1921	Fiction-Novel	Male	White	Britain	181100
+383	pst.000057254876	0.5365853658536592	0.8557190717101493	Greene, Graham	A Gun for Sale	1936	Fiction-Novel	Male	White	Britain	89663
+197	mdp.39015014841145	0.5364583333333319	0.5945244632842948	Maugham, William Somerset	Mrs. Craddock	1902	Fiction-Novel	Male	White	Britain	120871
+488	uc1.b3811079	0.536231884057971	0.8304180369174975	Bennett, Arnold	The Night Visitor, and Other Stories	1931	Fiction-Stories	Male	White	Britain	124395
+23	coo.31924074619218	0.5358649789029519	0.7147944617636289	Stevenson, Robert Louis	Catriona	1893	Fiction-Novel	Male	White	Britain	124096
+14	coo.31924013586569	0.5340909090909083	0.843252674853101	Bennett, Arnold	The City of Pleasure: A Fantasia on Modern Themes	1907	Fiction-Novel	Male	White	Britain	78117
+516	uc1.b4095604	0.5324324324324357	1.3380260804965718	Ford, Ford Madox	Mr. Apollo: A Just Possible Story	1908	Fiction-Novel	Male	White	Britain	103497
+18	coo.31924013615509	0.5319148936170216	0.5559649637719954	Galsworthy, John	The Dark Flower	1913	Fiction-Novel	Male	White	Britain	94921
+315	mdp.49015001011247	0.5319148936170215	0.43774833334330054	Williams, Charles	The Place of the Lion	1931	Fiction-Novel	Male	White	Britain	80370
+54	inu.30000007685427	0.5313653136531364	0.7627348291270057	Waugh, Alec	The Loom of Youth	1917	Fiction-Novel	Male	White	Britain	132980
+29	coo1.ark:/13960/t6zw21192	0.5311572700296741	1.2975332897279248	Bennett, Arnold	The Pretty Lady: A Novel	1918	Fiction-Novel	Male	White	Britain	97208
+424	uc1.32106001930137	0.5311203319502088	0.9320998318406745	Chesterton, G. K.	The Innocence of Father Brown	1911	Fiction-Novel	Male	White	Britain	96771
+115	mdp.39015002578469	0.5282051282051266	0.9516081997087368	Wilde, Oscar	Lord Arthur Savile's Crime and Other Stories	1891	Fiction-Stories	Male	White	Ireland	76695
+7	coo.31924013205749	0.5268817204301088	1.2998808225485041	Allen, Grant	The Woman Who Did	1895	Fiction-Novel	Male	White	Other	53555
+476	uc1.b3759961	0.5263157894736843	0.3686289811394905	Wells, H. G.	The Croquet Player: A Story	1937	Fiction-Novel	Male	White	Britain	19291
+571	uva.x000926858	0.5260663507109002	0.6014393060187955	James, Henry	The Golden Bowl	1904	Fiction-Novel	Male	White	Us	131305
+252	mdp.39015047714954	0.5244865718799372	1.8611276324689074	Trollope, Anthony	Mr. Scarborough's Family	1883	Fiction-Novel	Male	White	Britain	254594
+381	pst.000051483654	0.5243445692883889	0.9210435056616252	Maugham, William Somerset	Theatre: A Novel	1937	Fiction-Novel	Male	White	Britain	108498
+273	mdp.39015060668582	0.5234657039711192	1.0712793102356	Wells, H. G.	The First Men in the Moon	1901	Fiction-Novel	Male	White	Britain	96776
+21	coo.31924014495349	0.5208333333333334	1.462626017374578	Huxley, Aldous	Two or Three Graces, and Other Stories	1926	Fiction-Stories	Male	White	Britain	73697
+515	uc1.b4095578	0.5199999999999999	0.2507972881572038	Green, Henry	Party Going	1939	Fiction-Novel	Male	White	Britain	74617
+34	hvd.32044004999371	0.5199999999999989	0.4475526145963872	Wells, H. G.	The History of Mr. Polly	1910	Fiction-Novel	Male	White	Britain	83627
+376	pst.000044205362	0.5191637630662	1.1941577149751574	Maugham, William Somerset	Cakes and Ale: Or the Skeleton in the Cupboard	1930	Fiction-Novel	Male	White	Britain	89952
+131	mdp.39015003675371	0.5182724252491673	1.3822232323268138	Ford, Ford Madox	Last Post	1928	Fiction-Novel	Male	White	Britain	81504
+159	mdp.39015008040225	0.5179856115107917	0.32199171056622233	Conrad, Joseph	Chance	1913	Fiction-Novel	Male	White	Britain	161570
+367	pst.000029575206	0.5177865612648271	0.8907952090983715	Priestley, J. B.	The Good Companions	1929	Fiction-Novel	Male	White	Britain	318900
+12	coo.31924013536150	0.5176470588235271	1.399912437738823	Bennett, Arnold	The Statue	1908	Fiction-Novel	Male	White	Britain	90901
+402	uc1.$b244736	0.5158730158730136	0.9330397473650852	Macaulay, Rose	Keeping Up Appearances	1928	Fiction-Novel	Female	White	Britain	101086
+76	inu.32000004673150	0.5138121546961318	0.858395865717283	Hardy, Thomas	The Trumpet-Major	1880	Fiction-Novel	Male	White	Britain	157838
+298	mdp.39076005037002	0.5133333333333345	1.1164384471081088	Galsworthy, John	Flowering Wilderness	1932	Fiction-Novel	Male	White	Britain	100572
+430	uc1.32106001982351	0.5117318435754191	1.4091257677452251	Ford, Ford Madox	The Fifth Queen Crowned: A Romance	1908	Fiction-Novel	Male	White	Britain	237719
+65	inu.30000117261093	0.510602205258703	1.2476356607858765	Conan Doyle, Arthur	The Adventures of Sherlock Holmes	1891	Fiction-Novel	Male	White	Britain	353685
+345	osu.32435061047858	0.5105263157894745	0.8105711407782789	Conan Doyle, Arthur	The Lost World	1912	Fiction-Novel	Male	White	Britain	87731
+178	mdp.39015010471400	0.5101123595505591	1.3855515061896935	Ford, Ford Madox	The Fifth Queen: And How She Came to Court	1906	Fiction-Novel	Male	White	Britain	240413
+314	mdp.49015001002139	0.5099601593625485	0.693485262445198	Sayers, Dorothy	The Nine Tailors	1934	Fiction-Novel	Female	White	Britain	135465
+99	inu.39000004633983	0.509009009009009	0.8826861338534375	Chesterton, G. K.	The Ball and the Cross	1909	Fiction-Novel	Male	White	Britain	94132
+32	dul1.ark:/13960/t5p855w55	0.5065789473684218	0.9374911161494212	Beerbohm, Max	Seven Men	1919	Fiction-Stories	Male	White	Britain	60683
+322	njp.32101068574464	0.5061728395061729	0.2956559048331878	Lawrence, D. H.	The Prussian Officer and Other Stories	1914	Fiction-Stories	Male	White	Britain	102539
+25	coo1.ark:/13960/t0ht35x8w	0.5061224489795917	1.2809573531757725	Bennett, Arnold	The Roll-Call	1918	Fiction-Novel	Male	White	Britain	143170
+96	inu.39000004044819	0.5049504950495057	0.4080720821056913	Lehmann, Rosamond	A Note in Music	1930	Fiction-Novel	Female	White	Britain	92635
+258	mdp.39015053044510	0.5043478260869567	1.209662461559519	Wells, H. G.	The Sea Lady: A Tissue of Moonshine	1902	Fiction-Novel	Male	White	Britain	71163
+269	mdp.39015058086136	0.5043478260869566	0.8199181803215544	Wells, H. G.	When the Sleeper Wakes: A Story of the Years to Come	1899	Fiction-Novel	Male	White	Britain	104990
+215	mdp.39015030719564	0.503042596348888	1.2602362376068168	Wells, H. G.	The Bulpington of Blup	1932	Fiction-Novel	Male	White	Britain	146415
+437	uc1.32106002021704	0.5026455026455012	0.7021484135848965	Williams, Charles	War in Heaven	1930	Fiction-Novel	Male	White	Britain	100745
+143	mdp.39015004750959	0.5018587360594797	1.5039425180343664	Woolf, Virginia	Jacob's Room	1922	Fiction-Novel	Female	White	Britain	66944
+498	uc1.b3835494	0.5018050541516245	0.9009500706284798	Galsworthy, John	Over the River	1933	Fiction-Novel	Male	White	Britain	115072
+548	uc2.ark:/13960/t88g8mj8t	0.5000000000000021	2.226017925823416	Bennett, Arnold	The Regent: A Five Towns Story of Adventure in London	1913	Fiction-Novel	Male	White	Britain	128120
+486	uc1.b3796889	0.5000000000000009	0.8595061660075065	Bennett, Arnold	Helen with the High Hand: An Idyllic Diversion	1910	Fiction-Novel	Male	White	Britain	65318
+233	mdp.39015031240875	0.5000000000000002	0.8420473402284324	Isherwood, Christopher	The Memorial	1932	Fiction-Novel	Male	White	Britain	73784
+212	mdp.39015028687088	0.5000000000000002	0.6633138236748283	Wells, H. G.	The Stolen Bacillus, and Other Incidents	1895	Fiction-Stories	Male	White	Britain	51911
+191	mdp.39015013439065	0.5	0.11422716498645079	Compton-Burnett, Ivy	Pastors and Masters: A Study	1925	Fiction-Novel	Female	White	Britain	39319
+222	mdp.39015030727195	0.4999999999999999	0.04394997232177769	Compton-Burnett, Ivy	A Family and a Fortune	1939	Fiction-Novel	Female	White	Britain	119223
+563	umn.31951002059229q	0.4999999999999999	1.734091853321335	Powys, Theodore Francis	A Stubborn Tree	1926	Fiction-Stories	Male	White	Britain	2590
+137	mdp.39015003681668	0.49999999999999856	0.84378892224022	Galsworthy, John	To Let	1921	Fiction-Novel	Male	White	Britain	110004
+547	uc2.ark:/13960/t7vm4dr7d	0.49815498154981475	0.9565475647639399	Ford, Ford Madox	Mr. Fleight	1913	Fiction-Novel	Male	White	Britain	106036
+399	uc1.$b244475	0.49668874172185384	0.9993015396744174	Richardson, Dorothy	Dawn's Left Hand	1931	Fiction-Novel	Female	White	Britain	56555
+338	osu.32435007395684	0.4946236559139785	0.397723399177217	Lawrence, D. H.	The Trespasser	1912	Fiction-Novel	Male	White	Britain	87517
+520	uc1.b4097966	0.4935897435897435	0.6495585869072203	Bagnold, Enid	National Velvet	1935	Fiction-Novel	Female	White	Britain	89887
+152	mdp.39015005641033	0.49264705882352877	1.0843345838240146	Maugham, William Somerset	Six Stories Written in the First Person Singular	1931	Fiction-Stories	Male	White	Britain	93885
+36	hvd.32044010252005	0.4918032786885247	1.4553629887501487	Buchan, John	The Thirty-Nine steps	1915	Fiction-Novel	Male	White	Britain	47062
+455	uc1.32106014553967	0.4894894894894889	0.9701824380981255	Greene, Graham	Brighton Rock	1938	Fiction-Novel	Male	White	Britain	128464
+283	mdp.39015066650105	0.4878048780487807	0.36681622836509814	Webb, Mary	Precious Bane	1924	Fiction-Novel	Female	White	Britain	125501
+371	pst.000032564228	0.48765432098765393	0.8195355975802938	Burnett, Frances Hodgston	Little Lord Fauntleroy	1886	Fiction-Novel	Female	White	Britain	73984
+79	inu.32000005560356	0.4870129870129868	1.7344223354391033	Conrad, Joseph	The Nigger of the Narcissus	1897	Fiction-Novel	Male	White	Europe	33232
+157	mdp.39015005971810	0.48620689655172433	0.6728265068124109	Lehmann, Rosamond	The Weather in the Streets: A Novel	1936	Fiction-Novel	Female	White	Britain	161319
+465	uc1.a0001378843	0.48571428571428643	0.2215992637158417	Anstey, F.	Vice Versa	1882	Fiction-Novel	Male	White	Britain	118228
+55	inu.30000020646570	0.4834834834834828	0.8647778738002341	Maugham, William Somerset	The Merry-Go-Round	1904	Fiction-Novel	Male	White	Britain	144122
+102	mdp.39015000606981	0.483091787439612	0.8062490376693803	Orwell, George	Coming up for Air	1939	Fiction-Novel	Male	White	South Asia	96093
+75	inu.32000004614402	0.48302872062663227	1.0990865023175462	Galsworthy, John	Swan Song	1928	Fiction-Novel	Male	White	Britain	130424
+288	mdp.39015077637869	0.4819277108433737	0.5274250916943805	Hardy, Thomas	Jude the Obscure	1895	Fiction-Novel	Male	White	Britain	176697
+530	uc1.c003356752	0.4816753926701567	1.0186235521288627	Ford, Ford Madox	The Simple Life Limited	1911	Fiction-Novel	Male	White	Britain	140359
+176	mdp.39015009375976	0.477635782747602	1.5427610849904745	Aldington, Richard	Death of a Hero	1929	Fiction-Novel	Male	White	Britain	151868
+1	aeu.ark:/13960/t19k5p86c	0.47685185185185286	0.8693208546802095	Bennett, Arnold	Leonora: A Novel	1903	Fiction-Novel	Male	White	Britain	92996
+202	mdp.39015018629371	0.47679324894514774	0.8872265251057209	West, Rebecca	Harriet Hume	1929	Fiction-Novel	Female	White	Ireland	99978
+118	mdp.39015002709866	0.4761904761904775	0.37128684988327143	Powys, John Cowper	Ducdame	1925	Fiction-Novel	Male	White	Britain	169352
+148	mdp.39015005100105	0.4759825327510919	0.8328371319860807	Jacobs, W. W.	Light Freights	1901	Fiction-Stories	Male	White	Britain	102912
+425	uc1.32106001938288	0.47416413373860544	0.6668277776876659	Hardy, Thomas	Wessex Tales	1888	Fiction-Novel	Male	White	Britain	184660
+66	inu.30000117262042	0.4741641337386031	0.8375544482536529	Lawrence, D. H.	Lady Chatterley's Lover	1928	Fiction-Novel	Male	White	Britain	147019
+136	mdp.39015003681411	0.47169811320754573	0.6845781865241148	Galsworthy, John	The Island Pharisees	1904	Fiction-Novel	Male	White	Britain	86929
+521	uc1.b4098055	0.4680851063829776	0.6044573148031235	Aldington, Richard	The Colonel's Daughter	1931	Fiction-Novel	Male	White	Britain	116408
+329	nyp.33433074926712	0.46666666666666756	0.8241518460258117	Benson, E. F.	Queen Lucia	1920	Fiction-Novel	Male	White	Britain	102180
+140	mdp.39015003681916	0.4666666666666659	0.41074936897335507	Galsworthy, John	A Motley	1910	Fiction-Stories	Male	White	Britain	54672
+43	hvd.32044090347501	0.46625766871165597	0.5263017743571984	Galsworthy, John	Five Tales	1918	Fiction-Stories	Male	White	Britain	115916
+125	mdp.39015002714957	0.4660766961651932	1.073209886976324	Richardson, Dorothy	The Tunnel	1919	Fiction-Novel	Female	White	Britain	118224
+568	umn.31951p001743923	0.4657534246575341	0.7833272330630324	Beckett, Samuel	Murphy	1938	Fiction-Novel	Male	White	Ireland	69759
+37	hvd.32044011328713	0.4651162790697676	0.40015459050116703	Lawrence, D. H.	England, My England	1922	Fiction-Stories	Male	White	Britain	80438
+404	uc1.$b244757	0.4647058823529422	0.9266387080777222	Macaulay, Rose	What Not: A Prophetic Comedy	1918	Fiction-Novel	Female	White	Britain	68664
+30	coo1.ark:/13960/t74t75g7m	0.46345256609642227	1.4353801844215066	Ford, Ford Madox	The New Humpty-Dumpty	1912	Fiction-Novel	Male	White	Britain	167662
+208	mdp.39015020699826	0.46268656716417833	0.2288453273063107	White, T. H.	The Sword in the Stone	1939	Fiction-Novel	Male	White	Britain	109578
+220	mdp.39015030719705	0.4615384615384598	0.8326232488353378	Wells, H. G.	Twelve Stories and a Dream	1903	Fiction-Stories	Male	White	Britain	87655
+398	uc1.$b244163	0.45945945945945976	0.17498980913245765	Powys, Theodore Francis	The White Paternoster, and Other Stories	1931	Fiction-Stories	Male	White	Britain	79137
+154	mdp.39015005775112	0.4583333333333327	1.0449063863025303	Waugh, Evelyn	Decline and Fall	1928	Fiction-Novel	Male	White	Britain	77369
+235	mdp.39015031241972	0.4571428571428571	0.13481412476636603	James, Henry	The Two Magics	1898	Fiction-Stories	Male	White	Us	97168
+461	uc1.32106017177491	0.4567901234567914	1.6577737318557637	Chesterton, G. K.	The Club of Queer Trades	1905	Fiction-Stories	Male	White	Britain	54862
+93	inu.39000003171605	0.45406824146981295	1.1763628801208212	Conan Doyle, Arthur	The Memoirs of Sherlock Holmes	1893	Fiction-Novel	Male	White	Britain	121220
+230	mdp.39015031224093	0.45402298850574596	0.8912890846959995	Bennett, Arnold	Dream of Destiny: An Unfinished Novel and Venus Rising from the Sea	1932	Fiction-Novel	Male	White	Britain	73067
+4	aeu.ark:/13960/t9k373624	0.4537037037037037	0.43067764555191285	Bennett, Arnold	The Glimpse: An Adventure of the Soul	1909	Fiction-Novel	Male	White	Britain	93856
+335	nyp.33433082294657	0.4504854368932061	0.7754728632096443	James, Henry	The Princess Casamassima	1886	Fiction-Novel	Male	White	Us	248560
+42	hvd.32044072024789	0.44859813084112055	0.6730543398583512	Huxley, Aldous	Limbo	1920	Fiction-Stories	Male	White	Britain	59501
+436	uc1.32106002020458	0.44808743169399146	1.4480400206460824	Waugh, Evelyn	Mr. Loveday's Little Outing, and Other Sad Stories	1936	Fiction-Stories	Male	White	Britain	47300
+244	mdp.39015041313043	0.4471153846153848	0.6896996970229851	Huxley, Aldous	Antic Hay	1923	Fiction-Novel	Male	White	Britain	112874
+384	pst.000062475938	0.4468085106382971	1.7535343226099294	Conrad, Joseph	The Secret Agent: A Simple Tale	1907	Fiction-Novel	Male	White	Europe	130412
+559	uiug.30112056502336	0.44660194174757295	1.4109621175564657	Thomas, Edward	The Happy-Go-Lucky Morgans	1913	Fiction-Novel	Male	White	Britain	81966
+119	mdp.39015002709973	0.4461538461538467	0.32142299473567704	Powys, John Cowper	Rodmoor: A Romance	1916	Fiction-Novel	Male	White	Britain	151376
+134	mdp.39015003681346	0.4423076923076924	0.6285457596060953	Galsworthy, John	A Man of Devon	1901	Fiction-Stories	Male	White	Britain	61928
+551	uc2.ark:/13960/t9959fp9w	0.4406779661016945	0.92325635461123	Richardson, Dorothy	Deadlock	1921	Fiction-Novel	Female	White	Britain	95671
+58	inu.30000038731067	0.44000000000000017	0.2563912541674235	Powys, Theodore Francis	Fables	1934	Fiction-Stories	Male	White	Britain	72989
+249	mdp.39015046789809	0.4380952380952384	0.8443332232422864	Meredith, George	Diana of the Crossways	1885	Fiction-Novel	Male	White	Britain	186177
+64	inu.30000102875915	0.4378109452736326	1.3347392295713123	Stevenson, Robert Louis	Kidnapped	1886	Fiction-Novel	Male	White	Britain	112725
+422	uc1.31822038204657	0.43749999999999956	1.6574584002591586	Firbank, [Arthur Annesley] Ronald	"""Odette d'Antrevernes"" and ""A Study in Temperament"""	1905	Fiction-Stories	Male	White	Britain	7226
+262	mdp.39015054040400	0.4372019077901368	1.3927390801225652	Wells, H. G.	The New Machiavelli	1911	Fiction-Novel	Male	White	Britain	169033
+441	uc1.32106006215591	0.43489583333333215	0.5016966213099133	Woolf, Virginia	The Waves	1931	Fiction-Novel	Female	White	Britain	286471
+500	uc1.b3865720	0.4345794392523371	1.0128967758687795	Waugh, Evelyn	Vile Bodies	1930	Fiction-Novel	Male	White	Britain	79075
+272	mdp.39015060668574	0.43333333333333135	1.1709352782715439	Wells, H. G.	The Invisible Man	1897	Fiction-Novel	Male	White	Britain	76713
+327	nyp.33433074926431	0.43103448275862033	0.9218722244452056	Bennett, Arnold	Hugo: A Fantasia on Modern Themes	1906	Fiction-Novel	Male	White	Britain	70643
+47	hvd.hwijhj	0.4276527331189708	0.8911510031439249	Bennett, Arnold	Hilda Lessways	1911	Fiction-Novel	Male	White	Britain	130617
+377	pst.000045759383	0.42405063291139145	0.7280087450460588	Hardy, Thomas	A Group of Noble Dames	1891	Fiction-Stories	Male	White	Britain	81229
+232	mdp.39015031234613	0.41935483870967705	0.2271396326474455	Hartley, Leslie Poles	Night Fears, and Other Stories	1924	Fiction-Stories	Male	White	Britain	51081
+130	mdp.39015003675322	0.41927710843373334	1.3177349360198836	Ford, Ford Madox	Ladies Whose Bright Eyes (heavily revised)	1935	Fiction-Novel	Male	White	Britain	117872
+349	pst.000006670955	0.4184210526315788	1.2104825225393465	Galsworthy, John	In Chancery	1920	Fiction-Novel	Male	White	Britain	117494
+492	uc1.b3834532	0.4172413793103448	0.7533764550289183	Ford, Ford Madox	Some Do Not..., A Novel	1924	Fiction-Novel	Male	White	Britain	144071
+457	uc1.32106014704156	0.4155844155844156	0.3210404768476088	James, Henry	The Awkward Age	1899	Fiction-Novel	Male	White	Us	179536
+5	coo.31924006118453	0.4117647058823526	0.3700906239541688	Carroll, Lewis	Sylvie and Bruno	1889	Fiction-Novel	Male	White	Britain	85961
+540	uc2.ark:/13960/t24b37r0x	0.41090146750523937	1.5459205736644366	Ford, Ford Madox	The Portrait	1910	Fiction-Novel	Male	White	Britain	115484
+365	pst.000029123872	0.4108695652173918	0.9936308622607466	Moore, George	Esther Waters	1894	Fiction-Novel	Male	White	Ireland	173270
+33	gri.ark:/13960/t3kw8z43q	0.4105263157894756	1.346393888906924	Ford, Ford Madox	Ladies Whose Bright Eyes	1911	Fiction-Novel	Male	White	Britain	132042
+177	mdp.39015010378282	0.4086956521739151	1.171534856924566	Bowen, Elizabeth	Friends and Relations	1931	Fiction-Novel	Female	White	Ireland	73479
+344	osu.32435053039384	0.40825035561877643	0.9932848685926837	Trollope, Anthony	The Duke's Children	1880	Fiction-Novel	Male	White	Britain	264894
+292	mdp.39015079184662	0.4054054054054059	1.100991303500861	Conan Doyle, Arthur	The Return of Sherlock Holmes	1905	Fiction-Novel	Male	White	Britain	138357
+560	umn.319510012033642	0.4054054054054058	0.8634705835785037	Gissing, George	The Unclassed	1884	Fiction-Novel	Male	White	Britain	160378
+187	mdp.39015012884543	0.40353089533417885	1.2806293389817913	Mackenzie, Compton	Sinister Street	1913	Fiction-Novel	Male	White	Britain	231761
+550	uc2.ark:/13960/t91836s7n	0.4011976047904192	0.5595217575624557	West, Rebecca	The Judge	1922	Fiction-Novel	Female	White	Ireland	223419
+318	mdp.49015001344812	0.4010989010988988	0.7778871066091575	Greene, Graham	The Confidential Agent	1939	Fiction-Novel	Male	White	Britain	87568
+336	nyp.33433107875183	0.4	0.33642076098274337	Garnett, David	Lady Into Fox	1922	Fiction-Novel	Male	White	Britain	27813
+56	inu.30000035055387	0.3999999999999987	0.5170509351805341	Lawrence, D. H.	The Rainbow	1915	Fiction-Novel	Male	White	Britain	224398
+446	uc1.32106011205272	0.39999999999999614	0.7421496071681268	Gissing, George	New Grub Street	1891	Fiction-Novel	Male	White	Britain	234505
+321	njp.32101068137924	0.39779559118236585	1.8433089156505202	Disraeli, Benjamin	Endymion	1880	Fiction-Novel	Male	White	Britain	202639
+251	mdp.39015047547255	0.39705882352941113	0.29934942484802923	Woolf, Virginia	To the Lighthouse	1927	Fiction-Novel	Female	White	Britain	85020
+145	mdp.39015005028835	0.39690721649484517	0.6158916649135507	Wells, H. G.	Ann Veronica: A Modern Love Story	1909	Fiction-Novel	Male	White	Britain	117893
+575	wu.89099304214	0.39682539682539686	0.7444845281490545	Richardson, Dorothy	Backwater	1916	Fiction-Novel	Female	White	Britain	63344
+438	uc1.32106005288425	0.3919999999999997	0.83945225590442	Grossmith, George	The Diary of a Nobody	1894	Fiction-Novel	Male	White	Britain	55732
+458	uc1.32106016477231	0.3906810035842293	1.4514438476784366	Wells, H. G.	The Wheels of Chance: A Holiday Adventure	1896	Fiction-Novel	Male	White	Britain	71944
+174	mdp.39015009048433	0.3905325443786981	1.773167902737164	Beerbohm, Max	Works of Max Beerbohm	1896	Fiction-Unspecified	Male	White	Britain	35672
+210	mdp.39015022200417	0.3902439024390242	1.1412302928585571	Macaulay, Rose	Orphan Island	1925	Fiction-Novel	Female	White	Britain	107570
+572	uva.x030581232	0.3901345291479854	0.8550974802142376	Galsworthy, John	The Forsyte Saga	1922	Fiction-Novel	Male	White	Britain	390427
+218	mdp.39015030719622	0.38953488372093015	0.6939457986295304	Wells, H. G.	The Plattner Story, and Others	1897	Fiction-Stories	Male	White	Britain	92767
+542	uc2.ark:/13960/t3xs5n992	0.3888888888888886	0.8391289593514834	Ashford, Daisy	The Young Visiters	1919	Fiction-Novel	Female	White	Britain	16057
+423	uc1.31822038204798	0.388297872340427	0.783865282700408	Macaulay, Rose	The Making of a Bigot	1914	Fiction-Novel	Female	White	Britain	89765
+149	mdp.39015005111680	0.38716814159292434	1.2343471982127678	Forster, E. M.	Howards End	1910	Fiction-Novel	Male	White	Britain	137054
+401	uc1.$b244725	0.38666666666666416	1.2561243959206614	Macaulay, Rose	Crewe Train	1926	Fiction-Novel	Female	White	Britain	89388
+491	uc1.b3834403	0.3854166666666681	0.36867556486710296	Galsworthy, John	The Country House	1907	Fiction-Novel	Male	White	Britain	97458
+536	uc2.ark:/13960/t10p12n34	0.3837837837837832	0.6992470625373796	Beerbohm, Max	Zuleika Dobson; or an Oxford Love Story	1911	Fiction-Novel	Male	White	Britain	99022
+84	inu.39000000700414	0.38315789473684236	1.2169664365201631	Wells, H. G.	Christina Alberta's Father	1925	Fiction-Novel	Male	White	Britain	146085
+122	mdp.39015002711458	0.3809523809523808	0.11469095761241717	Powys, Theodore Francis	Mockery Gap	1925	Fiction-Novel	Male	White	Britain	68530
+259	mdp.39015053230523	0.3808752025931873	1.3131105862532526	Wells, H. G.	Marriage	1912	Fiction-Novel	Male	White	Britain	175863
+462	uc1.32106017680692	0.3793103448275873	1.0487265218120174	Woolf, Virginia	Orlando	1928	Fiction-Novel	Female	White	Britain	93147
+45	hvd.hn3mzf	0.3791469194312801	1.1682419573780398	Richardson, Dorothy	Interim	1919	Fiction-Novel	Female	White	Britain	67599
+328	nyp.33433074926589	0.37792642140468435	0.6237009835673104	Bennett, Arnold	These Twain	1915	Fiction-Novel	Male	White	Britain	179426
+489	uc1.b3811090	0.3761467889908253	1.147350405716569	Bennett, Arnold	Whom God Hath Joined	1906	Fiction-Novel	Male	White	Britain	106670
+214	mdp.39015030719531	0.375	2.3301156420763984	Wells, H. G.	The Adventures of Tommy	1929	Fiction-Stories	Male	White	Britain	1285
+509	uc1.b4089521	0.3749999999999998	0.6659200682188832	Beerbohm, Max	The Happy Hypocrite: A Fairy Tale for Tired Men	1897	Fiction-Stories	Male	White	Britain	13489
+291	mdp.39015079156165	0.37467018469656876	1.313609840980037	James, Henry	The Spoils of Poynton	1897	Fiction-Novel	Male	White	Us	107985
+471	uc1.b3435601	0.373848987108656	0.9079429673361716	Priestley, J. B.	Angel Pavement	1930	Fiction-Novel	Male	White	Britain	223837
+410	uc1.$b386778	0.37297297297297416	0.7662860658769639	Wells, H. G.	The Food of the Gods, and how it Came to Earth	1904	Fiction-Novel	Male	White	Britain	90359
+234	mdp.39015031241063	0.37254901960784303	0.5459021928569066	James, Henry	The Outcry	1911	Fiction-Stories	Male	White	Us	69932
+275	mdp.39015060845628	0.37240537240537475	1.670059558593158	Wells, H. G.	Tono-Bungay	1909	Fiction-Novel	Male	White	Britain	183545
+280	mdp.39015066055271	0.37185929648241345	1.076248340799605	Household, Geoffrey	Rogue Male	1939	Fiction-Novel	Male	White	Britain	69204
+412	uc1.$b56284	0.370967741935486	0.667142165312645	Aldington, Richard	Women Must Work	1934	Fiction-Novel	Male	White	Britain	139131
+165	mdp.39015008337951	0.36885245901639374	0.34710925784534646	Lehmann, Rosamond	Dusty Answer	1927	Fiction-Novel	Female	White	Britain	131548
+539	uc2.ark:/13960/t22b9778q	0.368421052631579	0.542344545085565	Galsworthy, John	Beyond	1917	Fiction-Novel	Male	White	Britain	144232
+268	mdp.39015058011787	0.3666666666666645	0.7503641670027023	Woolf, Virginia	The Years	1937	Fiction-Novel	Female	White	Britain	164601
+27	coo1.ark:/13960/t3417ht19	0.36470588235294255	0.8259188090403874	Bennett, Arnold	Mr. Prohack	1922	Fiction-Novel	Male	White	Britain	154075
+189	mdp.39015012924240	0.3621621621621619	0.8446580375306669	Green, Henry	Blindness	1926	Fiction-Novel	Male	White	Britain	81975
+41	hvd.32044021127915	0.3598820058997029	0.8352918779568405	Wells, H. G.	The Wife of Sir Isaac Harman	1914	Fiction-Novel	Male	White	Britain	151898
+175	mdp.39015009283667	0.3571428571428572	0.26072006359561845	Compton-Burnett, Ivy	Brothers and Sisters	1929	Fiction-Novel	Female	White	Britain	100488
+78	inu.32000005560109	0.3571428571428571	0.05770947883872045	Compton-Burnett, Ivy	More Women Than Men	1933	Fiction-Novel	Female	White	Britain	90797
+126	mdp.39015002715129	0.3543689320388357	1.0178836367828727	Richardson, Dorothy	Revolving Lights	1923	Fiction-Novel	Female	White	Britain	75746
+276	mdp.39015061185768	0.3534971644612461	1.2494486563393794	Wells, H. G.	Kipps: The Story of a Simple Soul	1905	Fiction-Novel	Male	White	Britain	158463
+219	mdp.39015030719648	0.3509803921568615	2.465833364608518	Wells, H. G.	The Secret Places of the Heart	1922	Fiction-Novel	Male	White	Britain	77410
+483	uc1.b3796882	0.35023041474654437	0.7078591651067159	Bennett, Arnold	Elsie and the Child	1924	Fiction-Stories	Male	White	Britain	114737
+20	coo.31924014172187	0.34883720930232565	0.7038317797326348	Woolf, Virginia	Kew Gardens	1919	Fiction-Stories	Female	White	Britain	22866
+144	mdp.39015005021566	0.34782608695652373	0.613499695342338	Orwell, George	A Clergyman's Daughter	1935	Fiction-Novel	Male	White	South Asia	112252
+24	coo1.ark:/13960/t05x2w944	0.3478260869565224	0.7439565271105354	Woolf, Virginia	Monday or Tuesday	1921	Fiction-Stories	Female	White	Britain	23142
+49	hvd.hwjx3w	0.34705882352941075	0.5227946284166516	Galsworthy, John	The Freelands	1915	Fiction-Novel	Male	White	Britain	121705
+302	mdp.49015000914540	0.3463687150837991	1.8839248534658393	Bennett, Arnold	Buried Alive: A Tale of These Days	1908	Fiction-Novel	Male	White	Britain	71123
+467	uc1.b3174276	0.3429951690821209	1.1612639962941942	Gissing, George	Born in Exile	1892	Fiction-Novel	Male	White	Britain	200148
+87	inu.39000001387062	0.33333333333333326	0.34924555988353484	Potter, Beatrix	Peter Rabbit	1902	Fiction-Novel	Female	White	Britain	3215
+255	mdp.39015050026163	0.33023255813953434	0.7613329616049196	Orwell, George	Keep the Aspidistra Flying	1936	Fiction-Novel	Male	White	South Asia	105695
+505	uc1.b4082740	0.32587859424920096	0.6320299766264572	Woolf, Virginia	The Voyage Out	1915	Fiction-Novel	Female	White	Britain	185352
+449	uc1.32106012128440	0.32249786142001313	2.2280532379104887	Hardy, Thomas	A Laodicean	1881	Fiction-Novel	Male	White	Britain	196372
+427	uc1.32106001955357	0.3222891566265069	1.2914613151952834	Stevenson, Robert Louis	More New Arabian Nights	1885	Fiction-Stories	Male	White	Britain	96216
+39	hvd.32044018987289	0.3203125	0.5451865487816596	Maugham, William Somerset	The Hero	1901	Fiction-Novel	Male	White	Britain	87873
+363	pst.000026767062	0.3187499999999983	0.7140945862313774	Conan Doyle, Arthur	The Hound of the Baskervilles	1901	Fiction-Novel	Male	White	Britain	83860
+305	mdp.49015000979592	0.31791907514450857	0.5962369561449595	Galsworthy, John	The Patrician	1911	Fiction-Novel	Male	White	Britain	108597
+431	uc1.32106001987129	0.3157894736842105	0.49181974376941073	Greene, Graham	The Man Within	1929	Fiction-Novel	Male	White	Britain	86754
+68	inu.32000000357600	0.31390134529147906	1.0331404695974598	Greene, Graham	It's a Battlefield	1934	Fiction-Novel	Male	White	Britain	80786
+2	aeu.ark:/13960/t3pv7sg8r	0.31372549019607787	0.7514671105639378	Bennett, Arnold	The Gates of Wrath: A Melodrama	1903	Fiction-Novel	Male	White	Britain	50802
+107	mdp.39015001130619	0.31304347826086976	0.5898130164574162	Barrie, J. M.	Auld Licht Idylls	1888	Fiction-Novel	Male	White	Britain	72975
+470	uc1.b3346991	0.3124999999999999	0.6686762696119012	Richardson, Dorothy	The Trap	1925	Fiction-Novel	Female	White	Britain	44778
+156	mdp.39015005948743	0.31137724550898294	0.5331550213796605	Bennett, Arnold	Riceyman Steps: A Novel	1923	Fiction-Novel	Male	White	Britain	117234
+63	inu.30000094659426	0.31128640776698613	1.398856773932758	Powys, John Cowper	Owen Glendower: An Historical Novel	1940	Fiction-Novel	Male	White	Britain	440935
+420	uc1.$b87357	0.31034482758620674	1.8437183497956717	Chesterton, G. K.	The Sword of Wood	1928	Fiction-Stories	Male	White	Britain	5887
+16	coo.31924013586882	0.3080808080808082	1.1784434340731047	Bennett, Arnold	A Man From the North	1898	Fiction-Stories	Male	White	Britain	62885
+313	mdp.49015001000182	0.3053892215568865	1.0413150702456213	Rhys, Jean	Voyage in the Dark	1934	Fiction-Novel	Female	White	Caribbean	60024
+231	mdp.39015031225116	0.3046594982078873	1.465745995022289	Bennett, Arnold	Teresa of Watling Street: A Fantasia on Modern Themes	1904	Fiction-Novel	Male	White	Britain	71242
+111	mdp.39015002164583	0.3028048082427055	1.2256974668856648	Powys, John Cowper	A Glastonbury Romance	1932	Fiction-Novel	Male	White	Britain	533458
+263	mdp.39015054072536	0.2957746478873232	0.5739295603897313	Sayers, Dorothy	Murder Must Advertise	1933	Fiction-Novel	Female	White	Britain	138903
+164	mdp.39015008311048	0.2883295194507981	2.3576961674555084	Chesterton, G. K.	The Napoleon of Notting Hill	1904	Fiction-Novel	Male	White	Britain	69372
+192	mdp.39015013962207	0.2813688212927755	1.272730879833998	Woolf, Virginia	Mrs Dalloway	1925	Fiction-Novel	Female	White	Britain	77341
+379	pst.000045968389	0.28025477707006397	1.5683022185955466	Stevenson, Robert Louis	The Strange Case of Dr. Jekyll and Mr. Hyde	1886	Fiction-Novel	Male	White	Britain	37468
+271	mdp.39015060668566	0.2801082543978334	3.124488502211812	Wells, H. G.	The War of the Worlds	1898	Fiction-Novel	Male	White	Britain	88523
+297	mdp.39076001541874	0.2779783393501811	0.8751751760272216	Forster, E. M.	The Longest Journey	1907	Fiction-Novel	Male	White	Britain	118461
+464	uc1.32106019227708	0.273504273504274	1.0927595769220466	Jerome, Jerome K.	Three Men in a Boat	1889	Fiction-Novel	Male	White	Britain	80146
+503	uc1.b4064067	0.2727272727272728	0.4998206962600145	Beerbohm, Max	The Dreadful Dragon of Hay Hill	1928	Fiction-Stories	Male	White	Britain	24711
+284	mdp.39015066681548	0.2727272727272727	0.533275875145719	Hardy, Thomas	Life's Little Ironies	1894	Fiction-Stories	Male	White	Britain	92643
+278	mdp.39015065539754	0.2708333333333335	0.8973173967538607	Warner, Sylvia	Lolly Willowes	1926	Fiction-Novel	Female	White	Britain	60063
+374	pst.000033048772	0.2586872586872584	0.47410621812849724	Lawrence, D. H.	Sons and Lovers	1913	Fiction-Novel	Male	White	Britain	204463
+409	uc1.$b322675	0.2558139534883722	0.8444947251469133	Bennett, Arnold	Lilian 	1922	Fiction-Novel	Male	White	Britain	57172
+460	uc1.32106016823210	0.25227272727272754	1.156020659181844	Forster, E. M.	Maurice	1914	Fiction-Novel	Male	White	Britain	142455
+413	uc1.$b783912	0.25114854517611085	1.4806466626918346	Macaulay, Rose	They Were Defeated	1932	Fiction-Novel	Female	White	Britain	165064
+70	inu.32000001881533	0.25	0.3269489626630457	Powys, Theodore Francis	Make Thyself Many	1935	Fiction-Stories	Male	White	Britain	4579
+48	hvd.hwjway	0.24719101123595588	0.2821055524802117	Galsworthy, John	Fraternity	1909	Fiction-Novel	Male	White	Britain	118078
+61	inu.30000067523815	0.24242424242424365	1.5131549676629992	Benson, E. F.	Lucia in London	1927	Fiction-Novel	Male	White	Britain	106112
+103	mdp.39015000610488	0.1976744186046513	0.48047222217787516	Woolf, Virginia	Night and Day	1919	Fiction-Novel	Female	White	Britain	200975
+95	inu.39000003869802	0.18796992481203123	0.7347713068642681	Galsworthy, John	The Man of Property	1906	Fiction-Novel	Male	White	Britain	135494
+217	mdp.39015030719606	0.17307692307692368	0.7305299121831919	Wells, H. G.	Love and Mr Lewisham	1900	Fiction-Novel	Male	White	Britain	79924
+311	mdp.49015000993924	0.1304347826086958	0.3618461948379992	Maugham, William Somerset	Liza of Lambeth	1897	Fiction-Novel	Male	White	Britain	47580
+35	hvd.32044010105435	0.05128205128205121	0.5257804976346206	Barrie, J. M.	Peter Pan in Kensington Gardens	1906	Fiction-Novel	Male	White	Britain	27762
+67	inu.30000121090348	0.0	0.29224999349962644	Powys, Theodore Francis	A Strong Girl and the Bride	1926	Fiction-Stories	Male	White	Britain	3842
+121	mdp.39015002711391	0.0	0.11162386668909081	Powys, Theodore Francis	Uriah on the Hill	1930	Fiction-Stories	Male	White	Britain	6706
