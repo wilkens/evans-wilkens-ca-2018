@@ -24,3 +24,9 @@ To execute the notebooks in full from the command line, run:
 ```
 jupyter nbconvert --ExecutePreprocessor.timeout=-1 --to notebook --execute "<filename>"
 ```
+
+## Expanded bibliographies
+
+Lists of the volumes included in the study are located in the `results/` directory. They have names like `corpus_listing_Hathi.csv`, etc.
+
+We are also making available our larger [working bibliographies](https://docs.google.com/spreadsheets/d/1Wq-Ho7clTt6-_t3e1VfJbf0Grilf-JRyGhul2A0XDRc/edit?usp=sharing) culled from the critical sources noted in the article. These include volumes not held by Hathi and volumes published outside our target date range. The bibliographies also include additional metadata in some cases. We make no representations concerning accuracy for any volumes not included in the article corpus listings. Use at your own risk.
