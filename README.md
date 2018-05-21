@@ -25,6 +25,8 @@ To execute the notebooks in full from the command line, run:
 jupyter nbconvert --ExecutePreprocessor.timeout=-1 --to notebook --execute "<filename>"
 ```
 
+If the notebooks don't render correctly on GitHub, you might try using the [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/wilkens/evans-wilkens-ca-2018/tree/master/).
+
 ## Expanded bibliographies
 
 Lists of the volumes included in the study are located in the `results/publication/` directory. They have names like `corpus_listing_Hathi.csv`, etc.
